@@ -38,8 +38,49 @@
         records = getMockRidershipData();
       }
 
-      records.sort((a, b) => new Date(a.date) - new Date(b.date));
-      cachedData = records;
+      // Check if data is daily or already monthly
+      const isDaily = records.some(r => r.rail_mrt_kajang !== undefined || r.bus_rkl !== undefined);
+
+      let processedRecords = [];
+      if (isDaily) {
+        const monthlyMap = {};
+        records.forEach(r => {
+          if (!r.date) return;
+          const monthKey = r.date.substring(0, 7); // "YYYY-MM"
+          if (!monthlyMap[monthKey]) {
+            monthlyMap[monthKey] = { date: monthKey + '-01', rail: 0, bus: 0 };
+          }
+          const railSum = (parseFloat(r.rail_ets) || 0) +
+                          (parseFloat(r.rail_lrt_kj) || 0) +
+                          (parseFloat(r.rail_tebrau) || 0) +
+                          (parseFloat(r.rail_komuter) || 0) +
+                          (parseFloat(r.rail_mrt_pjy) || 0) +
+                          (parseFloat(r.rail_monorail) || 0) +
+                          (parseFloat(r.rail_intercity) || 0) +
+                          (parseFloat(r.rail_lrt_ampang) || 0) +
+                          (parseFloat(r.rail_mrt_kajang) || 0) +
+                          (parseFloat(r.rail_komuter_utara) || 0);
+
+          const busSum = (parseFloat(r.bus_rkl) || 0) +
+                         (parseFloat(r.bus_rkn) || 0) +
+                         (parseFloat(r.bus_rpn) || 0);
+
+          monthlyMap[monthKey].rail += railSum;
+          monthlyMap[monthKey].bus += busSum;
+        });
+        processedRecords = Object.values(monthlyMap);
+      } else {
+        // Mock data is already monthly and in thousands (e.g. 22400)
+        // Multiply by 1000 to match the absolute scale of the daily data sum
+        processedRecords = records.map(r => ({
+          date: r.date,
+          rail: parseFloat(r.rail || 0) * 1000,
+          bus: parseFloat(r.bus || 0) * 1000
+        }));
+      }
+
+      processedRecords.sort((a, b) => new Date(a.date) - new Date(b.date));
+      cachedData = processedRecords;
 
       renderSection(container, cachedData);
     });
@@ -67,8 +108,8 @@
     const latest = records[records.length - 1];
     
     // Total rail and bus ridership (formatted)
-    const railRidership = parseFloat(latest.rail || latest.rail_rapid || 27800) * 1000;
-    const busRidership = parseFloat(latest.bus || latest.bus_rapid || 7900) * 1000;
+    const railRidership = parseFloat(latest.rail || 27800000);
+    const busRidership = parseFloat(latest.bus || 7900000);
     const totalRidership = railRidership + busRidership;
 
     container.innerHTML = `
@@ -138,8 +179,8 @@
         { month: 'short', year: '2-digit' }
       ));
 
-      const railData = records.map(r => parseFloat(r.rail || r.rail_rapid || 0) / 1000); // in millions
-      const busData = records.map(r => parseFloat(r.bus || r.bus_rapid || 0) / 1000);
+      const railData = records.map(r => parseFloat(r.rail || 0) / 1e6); // in millions
+      const busData = records.map(r => parseFloat(r.bus || 0) / 1e6);
 
       chartInstance = NadiCharts.createLineChart('chart-transport-ridership', {
         labels,

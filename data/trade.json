@@ -1,15 +1,21 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-22T23:28:54.598Z",
+    "fetched_at": "2026-06-22T23:40:21.557Z",
     "source": "NADI Data Bot",
     "api_key": "trade"
   },
   "data": [
     {
       "date": "2026-03-01",
-      "exports": 5872816498,
-      "imports": 1190951832,
-      "section": "4"
+      "exports": 4008837738,
+      "imports": 6641395675,
+      "section": "0"
+    },
+    {
+      "date": "2026-03-01",
+      "exports": 223670990,
+      "imports": 255554979,
+      "section": "1"
     },
     {
       "date": "2026-03-01",
@@ -19,21 +25,9 @@
     },
     {
       "date": "2026-03-01",
-      "exports": 148752304156,
-      "imports": 124199086437,
-      "section": "overall"
-    },
-    {
-      "date": "2026-03-01",
-      "exports": 4008837738,
-      "imports": 6641395675,
-      "section": "0"
-    },
-    {
-      "date": "2026-03-01",
-      "exports": 3349654797,
-      "imports": 4874562730,
-      "section": "2"
+      "exports": 80492049894,
+      "imports": 68501913346,
+      "section": "7"
     },
     {
       "date": "2026-03-01",
@@ -43,9 +37,9 @@
     },
     {
       "date": "2026-03-01",
-      "exports": 8056602553,
-      "imports": 9662122873,
-      "section": "5"
+      "exports": 5872816498,
+      "imports": 1190951832,
+      "section": "4"
     },
     {
       "date": "2026-03-01",
@@ -55,9 +49,21 @@
     },
     {
       "date": "2026-03-01",
-      "exports": 80492049894,
-      "imports": 68501913346,
-      "section": "7"
+      "exports": 8056602553,
+      "imports": 9662122873,
+      "section": "5"
+    },
+    {
+      "date": "2026-03-01",
+      "exports": 148752304156,
+      "imports": 124199086437,
+      "section": "overall"
+    },
+    {
+      "date": "2026-03-01",
+      "exports": 3349654797,
+      "imports": 4874562730,
+      "section": "2"
     },
     {
       "date": "2026-03-01",
@@ -66,10 +72,16 @@
       "section": "3"
     },
     {
-      "date": "2026-03-01",
-      "exports": 223670990,
-      "imports": 255554979,
-      "section": "1"
+      "date": "2026-02-01",
+      "exports": 1341667459,
+      "imports": 3071686866,
+      "section": "9"
+    },
+    {
+      "date": "2026-02-01",
+      "exports": 3949606598,
+      "imports": 6607161076,
+      "section": "0"
     },
     {
       "date": "2026-02-01",
@@ -79,21 +91,21 @@
     },
     {
       "date": "2026-02-01",
-      "exports": 9500450956,
-      "imports": 9204990744,
-      "section": "6"
+      "exports": 192415054,
+      "imports": 222680233,
+      "section": "1"
     },
     {
       "date": "2026-02-01",
-      "exports": 130952350790,
-      "imports": 114244329980,
-      "section": "overall"
+      "exports": 18179811305,
+      "imports": 8548800443,
+      "section": "8"
     },
     {
       "date": "2026-02-01",
-      "exports": 1341667459,
-      "imports": 3071686866,
-      "section": "9"
+      "exports": 12045171268,
+      "imports": 10289074973,
+      "section": "3"
     },
     {
       "date": "2026-02-01",
@@ -109,33 +121,33 @@
     },
     {
       "date": "2026-02-01",
+      "exports": 9500450956,
+      "imports": 9204990744,
+      "section": "6"
+    },
+    {
+      "date": "2026-02-01",
+      "exports": 130952350790,
+      "imports": 114244329980,
+      "section": "overall"
+    },
+    {
+      "date": "2026-02-01",
       "exports": 7810329949,
       "imports": 8410998955.999999,
       "section": "5"
     },
     {
-      "date": "2026-02-01",
-      "exports": 3949606598,
-      "imports": 6607161076,
-      "section": "0"
+      "date": "2026-01-01",
+      "exports": 10786062716,
+      "imports": 10966704095,
+      "section": "6"
     },
     {
-      "date": "2026-02-01",
-      "exports": 192415054,
-      "imports": 222680233,
-      "section": "1"
-    },
-    {
-      "date": "2026-02-01",
-      "exports": 12045171268,
-      "imports": 10289074973,
-      "section": "3"
-    },
-    {
-      "date": "2026-02-01",
-      "exports": 18179811305,
-      "imports": 8548800443,
-      "section": "8"
+      "date": "2026-01-01",
+      "exports": 146827728181,
+      "imports": 124869232122,
+      "section": "overall"
     },
     {
       "date": "2026-01-01",
@@ -145,9 +157,1653 @@
     },
     {
       "date": "2026-01-01",
-      "exports": 146827728181,
-      "imports": 124869232122,
+      "exports": 4904872419,
+      "imports": 8058571604,
+      "section": "0"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 78636345857,
+      "imports": 63958266118,
+      "section": "7"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 8498528563,
+      "imports": 9728139657,
+      "section": "5"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 1784710585,
+      "imports": 2522979998,
+      "section": "9"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 295403517,
+      "imports": 307053376,
+      "section": "1"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 16689514641.000002,
+      "imports": 8863465125,
+      "section": "8"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 14717389132,
+      "imports": 13807080900,
+      "section": "3"
+    },
+    {
+      "date": "2026-01-01",
+      "exports": 3571752799,
+      "imports": 5513702879,
+      "section": "2"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 3771132387,
+      "imports": 4610064093,
+      "section": "2"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 152774625539,
+      "imports": 130708231035,
       "section": "overall"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 82065193715,
+      "imports": 68443900196,
+      "section": "7"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 9214877968,
+      "imports": 10126611642,
+      "section": "5"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 16301055258,
+      "imports": 11271127113,
+      "section": "8"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 1489371741,
+      "imports": 2227781635,
+      "section": "9"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 277356326,
+      "imports": 322502015,
+      "section": "1"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 12550067420,
+      "imports": 11235929396,
+      "section": "6"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 14172057455,
+      "imports": 13126768002,
+      "section": "3"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 5118889933,
+      "imports": 8316553968,
+      "section": "0"
+    },
+    {
+      "date": "2025-12-01",
+      "exports": 7814623336,
+      "imports": 1026992974.9999999,
+      "section": "4"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 66744143046,
+      "imports": 72030088485,
+      "section": "7"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 1177988630,
+      "imports": 2752940386,
+      "section": "9"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 8683979320,
+      "imports": 9058736685,
+      "section": "5"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 134935089909,
+      "imports": 128849859719,
+      "section": "overall"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 3499017014,
+      "imports": 4264708002.0000005,
+      "section": "2"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 15756870198,
+      "imports": 13957843936,
+      "section": "3"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 4956885484,
+      "imports": 6841819188,
+      "section": "0"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 7009714080,
+      "imports": 724112769,
+      "section": "4"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 238379856,
+      "imports": 301035390,
+      "section": "1"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 10276322364,
+      "imports": 10060386188,
+      "section": "6"
+    },
+    {
+      "date": "2025-11-01",
+      "exports": 16591789916.999998,
+      "imports": 8858188690,
+      "section": "8"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 3215370906,
+      "imports": 4725134862,
+      "section": "2"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 11310251994,
+      "imports": 10655026453,
+      "section": "6"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 16755711457.000002,
+      "imports": 8681817681,
+      "section": "8"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 9636683749,
+      "imports": 9931716259,
+      "section": "5"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 9573881087,
+      "imports": 1267717563,
+      "section": "4"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 5188380805,
+      "imports": 7422815590,
+      "section": "0"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 1492905481,
+      "imports": 3180413769,
+      "section": "9"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 15576950111,
+      "imports": 14680547419,
+      "section": "3"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 242920197,
+      "imports": 344557975,
+      "section": "1"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 148329781304,
+      "imports": 127912134268,
+      "section": "overall"
+    },
+    {
+      "date": "2025-10-01",
+      "exports": 75336725517,
+      "imports": 67022386696.99999,
+      "section": "7"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 1508398037,
+      "imports": 1609795896,
+      "section": "9"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 7718820953,
+      "imports": 1324849345,
+      "section": "4"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 10298907699,
+      "imports": 9974608895,
+      "section": "6"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 202561083,
+      "imports": 271047212,
+      "section": "1"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 8911029617,
+      "imports": 9472392555,
+      "section": "5"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 139026288355,
+      "imports": 118796021480,
+      "section": "overall"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 15293348184,
+      "imports": 8446050836,
+      "section": "8"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 3227331675,
+      "imports": 3731828215,
+      "section": "2"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 72740274669,
+      "imports": 60084565319,
+      "section": "7"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 4543014231,
+      "imports": 7143959764,
+      "section": "0"
+    },
+    {
+      "date": "2025-09-01",
+      "exports": 14582602207,
+      "imports": 16736923443,
+      "section": "3"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 4951954453,
+      "imports": 7110959289,
+      "section": "0"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 15772745411,
+      "imports": 8453683558.000001,
+      "section": "8"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 1028615410.0000001,
+      "imports": 1761223531,
+      "section": "9"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 245591280,
+      "imports": 253747101,
+      "section": "1"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 2967571035,
+      "imports": 4566795800,
+      "section": "2"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 63962705051,
+      "imports": 58673595620,
+      "section": "7"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 7651447224,
+      "imports": 1008931911,
+      "section": "4"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 131318386788,
+      "imports": 115468555273,
+      "section": "overall"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 14703570778,
+      "imports": 13197084750,
+      "section": "3"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 10901715540,
+      "imports": 10415458460,
+      "section": "6"
+    },
+    {
+      "date": "2025-08-01",
+      "exports": 9132470606,
+      "imports": 10027075253,
+      "section": "5"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 71901680390,
+      "imports": 64316533228,
+      "section": "7"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 7073583985,
+      "imports": 1061302079,
+      "section": "4"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 12441764038,
+      "imports": 10973856987,
+      "section": "6"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 14603687896,
+      "imports": 15977395904,
+      "section": "3"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 2922689234,
+      "imports": 4417801789,
+      "section": "2"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 140062672726,
+      "imports": 125457705337,
+      "section": "overall"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 5335244120,
+      "imports": 7292406949,
+      "section": "0"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 14948462748,
+      "imports": 9295872053,
+      "section": "8"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 1019579678,
+      "imports": 2033474592,
+      "section": "9"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 217895774,
+      "imports": 312869942,
+      "section": "1"
+    },
+    {
+      "date": "2025-07-01",
+      "exports": 9598084863,
+      "imports": 9776191814,
+      "section": "5"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 61853037045,
+      "imports": 54332144435,
+      "section": "7"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 2256180734,
+      "imports": 4642635278,
+      "section": "2"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 12932268769,
+      "imports": 15502232795,
+      "section": "3"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 8073568978,
+      "imports": 10082811896,
+      "section": "5"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 121549776461,
+      "imports": 113145295367,
+      "section": "overall"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 4676259637,
+      "imports": 6926334480,
+      "section": "0"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 223893824,
+      "imports": 263691100,
+      "section": "1"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 910455963,
+      "imports": 1538854579,
+      "section": "9"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 9739769146,
+      "imports": 10170557103,
+      "section": "6"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 7192489480,
+      "imports": 1002200539,
+      "section": "4"
+    },
+    {
+      "date": "2025-06-01",
+      "exports": 13691852885,
+      "imports": 8683833162,
+      "section": "8"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 2531044505,
+      "imports": 4811468142,
+      "section": "2"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 126617562729,
+      "imports": 125857686971,
+      "section": "overall"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 210543934,
+      "imports": 269456793,
+      "section": "1"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 61628291364,
+      "imports": 65085600169,
+      "section": "7"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 12895714870,
+      "imports": 14105659524,
+      "section": "3"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 12161754245,
+      "imports": 11193880611,
+      "section": "6"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 9060033505,
+      "imports": 9869560854,
+      "section": "5"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 7737930787,
+      "imports": 1087818987,
+      "section": "4"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 5186873913,
+      "imports": 7966603502,
+      "section": "0"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 14349880425,
+      "imports": 8201066742,
+      "section": "8"
+    },
+    {
+      "date": "2025-05-01",
+      "exports": 855495181,
+      "imports": 3266571647,
+      "section": "9"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 233984403,
+      "imports": 286441224,
+      "section": "1"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 15682743031,
+      "imports": 12818799360,
+      "section": "3"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 8992687574,
+      "imports": 10076836542,
+      "section": "5"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 10922596221,
+      "imports": 10316103211,
+      "section": "6"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 14031479987,
+      "imports": 7901084024,
+      "section": "8"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 4817091297,
+      "imports": 7952337492,
+      "section": "0"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 2428441999,
+      "imports": 4066538687,
+      "section": "2"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 1086673088,
+      "imports": 3108790036,
+      "section": "9"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 133499369510,
+      "imports": 128369392945,
+      "section": "overall"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 68675974815,
+      "imports": 70849400004,
+      "section": "7"
+    },
+    {
+      "date": "2025-04-01",
+      "exports": 6627697095,
+      "imports": 993062365,
+      "section": "4"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 11844485666,
+      "imports": 9527601561,
+      "section": "6"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 14782858306,
+      "imports": 7377340744,
+      "section": "8"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 15300848619,
+      "imports": 13808500217,
+      "section": "3"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 5124495760,
+      "imports": 8836315496,
+      "section": "0"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 70866731552,
+      "imports": 54860380356,
+      "section": "7"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 137303572007,
+      "imports": 112534811159,
+      "section": "overall"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 998732501,
+      "imports": 2590159397,
+      "section": "9"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 6156688297,
+      "imports": 1461794887,
+      "section": "4"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 2494053518,
+      "imports": 3896923121,
+      "section": "2"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 9462905975,
+      "imports": 9931834877,
+      "section": "5"
+    },
+    {
+      "date": "2025-03-01",
+      "exports": 271771813,
+      "imports": 243960503,
+      "section": "1"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 13737035836,
+      "imports": 6716527781,
+      "section": "8"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 15680971449,
+      "imports": 15757161141,
+      "section": "3"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 10292292732,
+      "imports": 8613325343,
+      "section": "6"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 6661225977,
+      "imports": 1059953041,
+      "section": "4"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 239466847,
+      "imports": 213260518,
+      "section": "1"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 2381085860,
+      "imports": 3588819342,
+      "section": "2"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 118241868379,
+      "imports": 105624939200,
+      "section": "overall"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 54604888905,
+      "imports": 50785444269,
+      "section": "7"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 992175862,
+      "imports": 2000111125,
+      "section": "9"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 9045508033,
+      "imports": 8532808826,
+      "section": "5"
+    },
+    {
+      "date": "2025-02-01",
+      "exports": 4607216878,
+      "imports": 8357527814,
+      "section": "0"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 17396499887,
+      "imports": 15175817532,
+      "section": "3"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 12950559748,
+      "imports": 7546398983,
+      "section": "8"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 2252919811,
+      "imports": 4382701650,
+      "section": "2"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 7201664626,
+      "imports": 1346574972,
+      "section": "4"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 10569131918,
+      "imports": 10516374111,
+      "section": "6"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 57739945113,
+      "imports": 60459697195,
+      "section": "7"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 984527116,
+      "imports": 1459076538,
+      "section": "9"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 247139278,
+      "imports": 282991397,
+      "section": "1"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 9110565269,
+      "imports": 9382719137,
+      "section": "5"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 4361094302,
+      "imports": 8602770267,
+      "section": "0"
+    },
+    {
+      "date": "2025-01-01",
+      "exports": 122814047068,
+      "imports": 119155121782,
+      "section": "overall"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 11603832488,
+      "imports": 11255567039,
+      "section": "6"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 754936393,
+      "imports": 1739242472,
+      "section": "9"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 14861991168,
+      "imports": 8174497584,
+      "section": "8"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 8585863871,
+      "imports": 1479861910,
+      "section": "4"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 5041256482,
+      "imports": 8049306456,
+      "section": "0"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 279017637,
+      "imports": 335998218,
+      "section": "1"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 2781532138,
+      "imports": 3892798869,
+      "section": "2"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 66711814117,
+      "imports": 58421482388,
+      "section": "7"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 138475767192,
+      "imports": 119342145998,
+      "section": "overall"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 9386549314,
+      "imports": 10012152495,
+      "section": "5"
+    },
+    {
+      "date": "2024-12-01",
+      "exports": 18468973584,
+      "imports": 15981238567,
+      "section": "3"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 16261613178,
+      "imports": 15664675665,
+      "section": "3"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 255803147,
+      "imports": 311083042,
+      "section": "1"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 9354623950,
+      "imports": 9333956366,
+      "section": "5"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 58890577186,
+      "imports": 52814089224,
+      "section": "7"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 15437090639,
+      "imports": 7895657001,
+      "section": "8"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 126309940934,
+      "imports": 111259497681,
+      "section": "overall"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 2406582305,
+      "imports": 3794896117,
+      "section": "2"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 4639230502,
+      "imports": 7833781531,
+      "section": "0"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 1031130973,
+      "imports": 1857311103,
+      "section": "9"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 10448397461,
+      "imports": 10595342688,
+      "section": "6"
+    },
+    {
+      "date": "2024-11-01",
+      "exports": 7584891593,
+      "imports": 1158704944,
+      "section": "4"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 2440246367,
+      "imports": 3576316200,
+      "section": "2"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 60324497019,
+      "imports": 56144996734,
+      "section": "7"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 235630131,
+      "imports": 301147752,
+      "section": "1"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 9459954688,
+      "imports": 10094079454,
+      "section": "5"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 14770014948,
+      "imports": 7193957432,
+      "section": "8"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 7628304775,
+      "imports": 857053590,
+      "section": "4"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 10706550819,
+      "imports": 10863422229,
+      "section": "6"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 5170471080,
+      "imports": 8021634600,
+      "section": "0"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 1135716058,
+      "imports": 1526192633,
+      "section": "9"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 128138741607,
+      "imports": 116269336659,
+      "section": "overall"
+    },
+    {
+      "date": "2024-10-01",
+      "exports": 16267355722,
+      "imports": 17690536035,
+      "section": "3"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 61503868007,
+      "imports": 53481292468,
+      "section": "7"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 9270072836,
+      "imports": 9358859091,
+      "section": "5"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 2204806521,
+      "imports": 3360482769,
+      "section": "2"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 237865087,
+      "imports": 303695361,
+      "section": "1"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 14184025522,
+      "imports": 17575253250,
+      "section": "3"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 4620290340,
+      "imports": 7406727725,
+      "section": "0"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 123557385057,
+      "imports": 110790021705,
+      "section": "overall"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 666117282,
+      "imports": 1681516275,
+      "section": "9"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 13659441966,
+      "imports": 6669158278,
+      "section": "8"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 10123307588,
+      "imports": 10179827328,
+      "section": "6"
+    },
+    {
+      "date": "2024-09-01",
+      "exports": 7087589908,
+      "imports": 773209160,
+      "section": "4"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 2658843128,
+      "imports": 4913543526,
+      "section": "2"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 259378974,
+      "imports": 400249405,
+      "section": "1"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 6958437199,
+      "imports": 886423302,
+      "section": "4"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 58094871085,
+      "imports": 58466832406,
+      "section": "7"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 5160809839,
+      "imports": 9177293291,
+      "section": "0"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 11734010026,
+      "imports": 11936589353,
+      "section": "6"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 129003536468,
+      "imports": 123489842567,
+      "section": "overall"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 10130897108,
+      "imports": 11599746634,
+      "section": "5"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 16364224682,
+      "imports": 7581374519,
+      "section": "8"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 16977674950,
+      "imports": 16530700724,
+      "section": "3"
+    },
+    {
+      "date": "2024-08-01",
+      "exports": 664389477,
+      "imports": 1997089407,
+      "section": "9"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 8049878233,
+      "imports": 7907157622,
+      "section": "4"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 2796589212,
+      "imports": 2394041246,
+      "section": "2"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 236086326,
+      "imports": 170165587,
+      "section": "1"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 887685530,
+      "imports": 821171831,
+      "section": "9"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 9972786880,
+      "imports": 9153022196,
+      "section": "5"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 12070330600,
+      "imports": 10684518980,
+      "section": "6"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 4816073845,
+      "imports": 3993848245,
+      "section": "0"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 15209571513,
+      "imports": 13727069474,
+      "section": "8"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 59275334549,
+      "imports": 43708855295,
+      "section": "7"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 17832352445,
+      "imports": 12474765418,
+      "section": "3"
+    },
+    {
+      "date": "2024-07-01",
+      "exports": 131146689133,
+      "imports": 105034615894,
+      "section": "overall"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 676158745,
+      "imports": 623256007,
+      "section": "9"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 5887104371,
+      "imports": 5687139809,
+      "section": "4"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 18486598561,
+      "imports": 12680550363,
+      "section": "3"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 2485539053,
+      "imports": 2167933951,
+      "section": "2"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 13823035985,
+      "imports": 12762406392,
+      "section": "8"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 11031501097,
+      "imports": 10179656359,
+      "section": "6"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 8879280667,
+      "imports": 7988546445,
+      "section": "5"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 60214059389,
+      "imports": 44528799173,
+      "section": "7"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 240835731,
+      "imports": 148733449,
+      "section": "1"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 4292405626,
+      "imports": 3646731124,
+      "section": "0"
+    },
+    {
+      "date": "2024-06-01",
+      "exports": 126016519225,
+      "imports": 100413753072,
+      "section": "overall"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 14937506446,
+      "imports": 7344489904,
+      "section": "8"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 17948906918,
+      "imports": 21363870779,
+      "section": "3"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 250621641,
+      "imports": 322617254,
+      "section": "1"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 854471989,
+      "imports": 2466645245,
+      "section": "9"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 57168604751,
+      "imports": 51039325001,
+      "section": "7"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 128037443455,
+      "imports": 118082517423,
+      "section": "overall"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 4565395557,
+      "imports": 7670417789,
+      "section": "0"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 7051187582,
+      "imports": 1056193501,
+      "section": "4"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 9778496380,
+      "imports": 10968962777,
+      "section": "5"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 12791357411,
+      "imports": 12042630640,
+      "section": "6"
+    },
+    {
+      "date": "2024-05-01",
+      "exports": 2690894780,
+      "imports": 3807364533,
+      "section": "2"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 12435200414,
+      "imports": 7171084496,
+      "section": "8"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 220324020,
+      "imports": 246970596,
+      "section": "1"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 9082632528,
+      "imports": 10467136068,
+      "section": "5"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 2612094632,
+      "imports": 4206932743,
+      "section": "2"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 11723723811,
+      "imports": 11373720039,
+      "section": "6"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 3821296465,
+      "imports": 7437562388,
+      "section": "0"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 114695194503,
+      "imports": 106953536948,
+      "section": "overall"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 6451426628,
+      "imports": 780914807,
+      "section": "4"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 16458191373,
+      "imports": 16412057877,
+      "section": "3"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 931705729,
+      "imports": 2261703196,
+      "section": "9"
+    },
+    {
+      "date": "2024-04-01",
+      "exports": 50958598903,
+      "imports": 46595454738,
+      "section": "7"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 9329159761,
+      "imports": 10152673299,
+      "section": "5"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 14243760519,
+      "imports": 6566148198,
+      "section": "8"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 2948882081,
+      "imports": 3988879109,
+      "section": "2"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 20199730031,
+      "imports": 23795546639,
+      "section": "3"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 4387865270,
+      "imports": 7788031964,
+      "section": "0"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 12321131660,
+      "imports": 11170430285,
+      "section": "6"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 58259303991,
+      "imports": 49348418434,
+      "section": "7"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 5887992809,
+      "imports": 720807483,
+      "section": "4"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 128564532464,
+      "imports": 115845336043,
+      "section": "overall"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 719227636,
+      "imports": 2029873432,
+      "section": "9"
+    },
+    {
+      "date": "2024-03-01",
+      "exports": 267478706,
+      "imports": 284527200,
+      "section": "1"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 2227362272,
+      "imports": 4330506413,
+      "section": "2"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 46570816926,
+      "imports": 41182469020,
+      "section": "7"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 8857204770,
+      "imports": 9119999049,
+      "section": "5"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 236181031,
+      "imports": 289937778,
+      "section": "1"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 5124186526,
+      "imports": 603169687,
+      "section": "4"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 11335901646,
+      "imports": 10472573543,
+      "section": "6"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 3896142296,
+      "imports": 6284265101,
+      "section": "0"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 11909877535,
+      "imports": 6249666141,
+      "section": "8"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 647619828,
+      "imports": 1632160698,
+      "section": "9"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 111356905075,
+      "imports": 100116365899,
+      "section": "overall"
+    },
+    {
+      "date": "2024-02-01",
+      "exports": 20551612245,
+      "imports": 19951618469,
+      "section": "3"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 297352834,
+      "imports": 313103994,
+      "section": "1"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 2417086571,
+      "imports": 4080672150,
+      "section": "2"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 50937129034,
+      "imports": 45939338748,
+      "section": "7"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 23473173505,
+      "imports": 19957515200,
+      "section": "3"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 12695682849,
+      "imports": 7639220723,
+      "section": "8"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 4044694749,
+      "imports": 8578978961,
+      "section": "0"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 745331303,
+      "imports": 1906830778,
+      "section": "9"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 6544985524,
+      "imports": 633230950,
+      "section": "4"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 9136229527,
+      "imports": 10213382404,
+      "section": "5"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 122410483788,
+      "imports": 112237969000,
+      "section": "overall"
+    },
+    {
+      "date": "2024-01-01",
+      "exports": 12118817892,
+      "imports": 12975695092,
+      "section": "6"
+    },
+    {
+      "date": "2023-12-01",
+      "exports": 18586063671,
+      "imports": 19349047982,
+      "section": "3"
+    },
+    {
+      "date": "2023-12-01",
+      "exports": 2509997117,
+      "imports": 3869295888,
+      "section": "2"
+    },
+    {
+      "date": "2023-12-01",
+      "exports": 4129859204,
+      "imports": 7102919413,
+      "section": "0"
     }
   ]
 }

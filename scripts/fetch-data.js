@@ -85,12 +85,12 @@ const CATALOGUE_DATASETS = [
   { key: 'fuel',         file: 'fuel.json',         url: `${BASE_URL}/data-catalogue?id=fuelprice&limit=52&sort=-date`,                 label: 'Fuel Prices' },
   { key: 'exchange',     file: 'exchange.json',      url: `${BASE_URL}/data-catalogue?id=exchangerates_daily_1200&limit=30&sort=-date`,  label: 'Exchange Rates' },
   { key: 'population',   file: 'population.json',    url: `${BASE_URL}/data-catalogue?id=population_malaysia&limit=30&sort=-date`,       label: 'Population' },
-  { key: 'gdp',          file: 'gdp.json',           url: `${BASE_URL}/data-catalogue?id=gdp_qtr_real&limit=20&sort=-date`,              label: 'GDP Quarterly' },
-  { key: 'inflation',    file: 'inflation.json',     url: `${BASE_URL}/data-catalogue?id=cpi_headline&limit=24&sort=-date`,              label: 'CPI / Inflation' },
+  { key: 'gdp',          file: 'gdp.json',           url: `${BASE_URL}/data-catalogue?id=gdp_qtr_real&limit=100&sort=-date`,             label: 'GDP Quarterly' },
+  { key: 'inflation',    file: 'inflation.json',     url: `${BASE_URL}/data-catalogue?id=cpi_headline&limit=500&sort=-date`,             label: 'CPI / Inflation' },
   { key: 'unemployment', file: 'unemployment.json',  url: `${BASE_URL}/data-catalogue?id=lfs_month&limit=36&sort=-date`,                 label: 'Unemployment' },
-  { key: 'trade',        file: 'trade.json',         url: `${BASE_URL}/data-catalogue?id=trade_sitc_1d&limit=24&sort=-date`,             label: 'Trade Monthly' },
-  { key: 'tourism_data', file: 'tourism.json',       url: `${BASE_URL}/data-catalogue?id=arrivals&limit=24&sort=-date`,                 label: 'Tourism Arrivals' },
-  { key: 'transport',    file: 'transport.json',     url: `${BASE_URL}/data-catalogue?id=ridership_headline&limit=12&sort=-date`,        label: 'Transit Ridership' },
+  { key: 'trade',        file: 'trade.json',         url: `${BASE_URL}/data-catalogue?id=trade_sitc_1d&limit=300&sort=-date`,             label: 'Trade Monthly' },
+  { key: 'tourism_data', file: 'tourism.json',       url: `${BASE_URL}/data-catalogue?id=arrivals&limit=1000&sort=-date`,                label: 'Tourism Arrivals' },
+  { key: 'transport',    file: 'transport.json',     url: `${BASE_URL}/data-catalogue?id=ridership_headline&limit=365&sort=-date`,       label: 'Transit Ridership' },
 ];
 
 const WEATHER_DATASETS = [
