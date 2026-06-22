@@ -84,28 +84,45 @@
       </div>
 
       <!-- Weather Warnings List -->
-      ${renderAlertList('🌩️ Weather Warnings', warnings, w => ({
-        title: w.title || w.warning_type || 'Weather Warning',
-        body: w.text || w.description || w.detail || 'Severe weather conditions expected.',
-        meta: w.area || w.location || w.state || '',
-        severity: 'warning'
-      }))}
+      ${renderAlertList('🌩️ Weather Warnings', warnings, w => {
+        const isBm = NadiI18n.getLang() === 'bm';
+        return {
+          title: isBm ? (w.heading_bm || w.warning_issue?.title_bm || 'Amaran Cuaca') : (w.heading_en || w.warning_issue?.title_en || 'Weather Warning'),
+          body: isBm ? (w.text_bm || 'Cuaca buruk dijangka berlaku.') : (w.text_en || 'Severe weather conditions expected.'),
+          meta: 'MET Malaysia',
+          severity: 'warning'
+        };
+      })}
 
       <!-- Flood Warnings List -->
-      ${renderAlertList('🌊 Flood Alerts', floods, f => ({
-        title: f.district || f.location || 'Flood Warning',
-        body: f.level ? `Flood Level: ${f.level}` : (f.detail || 'Flooding reported in this area.'),
-        meta: f.state || '',
-        severity: 'danger'
-      }))}
+      ${renderAlertList('🌊 Flood Alerts', floods, f => {
+        const isDanger = f.water_level_indicator === 'DANGER';
+        const isWarning = f.water_level_indicator === 'WARNING';
+        const isBm = NadiI18n.getLang() === 'bm';
+        return {
+          title: `${f.station_name || 'Station'}, ${f.district || ''}`,
+          body: isBm ? 
+            `Aras Air Semasa: ${f.water_level_current || '?'}m (${f.water_level_indicator || 'NORMAL'}) · Kemaskini: ${f.water_level_update_datetime || ''}` :
+            `Current Water Level: ${f.water_level_current || '?'}m (${f.water_level_indicator || 'NORMAL'}) · Updated: ${f.water_level_update_datetime || ''}`,
+          meta: f.state || '',
+          severity: isDanger ? 'danger' : isWarning ? 'orange' : 'warning'
+        };
+      })}
 
       <!-- Earthquake List -->
-      ${renderAlertList('🫨 Seismic Activity', earthquakes, e => ({
-        title: `Magnitude ${e.magnitude || e.mag || '?'} — ${e.location || e.place || 'Unknown Location'}`,
-        body: `Depth: ${e.depth || '?'}km · ${e.date || e.time || ''}`,
-        meta: e.felt ? `Felt in: ${e.felt}` : '',
-        severity: 'orange'
-      }))}
+      ${renderAlertList('🫨 Seismic Activity', earthquakes, e => {
+        const isBm = NadiI18n.getLang() === 'bm';
+        return {
+          title: isBm ? 
+            `Magnitud ${e.magdefault || '?'} — ${e.location || 'Lokasi Tidak Diketahui'}` :
+            `Magnitude ${e.magdefault || '?'} — ${e.location_original || e.location || 'Unknown Location'}`,
+          body: isBm ?
+            `Kedalaman: ${e.depth || '?'}km · Masa Tempatan: ${e.localdatetime || ''}` :
+            `Depth: ${e.depth || '?'}km · Local Time: ${e.localdatetime || ''}`,
+          meta: e.status || '',
+          severity: 'orange'
+        };
+      })}
 
       <!-- General Safety Tips -->
       <div class="glass-card reveal mt-xl">

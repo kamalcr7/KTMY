@@ -18,7 +18,6 @@
 
     renderSection(container);
     startTickers();
-    initDataStatusTracker();
   }
 
   function renderSection(container) {
@@ -49,29 +48,6 @@
           <div class="glass-card hero-stat">
             <div class="stat-number" id="hero-live-time">00:00:00</div>
             <div class="stat-label" id="hero-live-date">Malaysia Time (MYT)</div>
-          </div>
-
-          <div class="glass-card hero-stat">
-            <div class="stat-number" style="font-size:1.4rem; display:flex; align-items:center; justify-content:center; gap:8px;">
-              <span class="live-dot"></span>
-              <span id="hero-status-label">LOADING...</span>
-            </div>
-            <div class="stat-label">Data Sync Status</div>
-          </div>
-        </div>
-
-        <!-- Data Sync Progress (shown while loading) -->
-        <div id="hero-sync-bar" class="reveal mt-lg glass-card" style="display:none; padding:var(--space-md);">
-          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
-            <span style="font-size:var(--fs-small); color:var(--text-secondary);">📡 Reading cached data files...</span>
-            <span id="hero-sync-count" style="font-size:var(--fs-xs); color:var(--text-muted);">0 / 13</span>
-          </div>
-          <div style="background:var(--glass-bg); border-radius:4px; overflow:hidden; height:4px;">
-            <div id="hero-sync-progress" style="height:100%; background:var(--primary); transition:width 0.5s ease; width:0%;"></div>
-          </div>
-          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:8px;">
-            <p id="hero-sync-msg" style="font-size:var(--fs-xs); color:var(--text-muted); margin:0;">Starting...</p>
-            <span id="hero-last-data-refresh" style="font-size:var(--fs-xs); color:var(--text-muted);"></span>
           </div>
         </div>
 
@@ -138,78 +114,7 @@
     }
   }
 
-  function initDataStatusTracker() {
-    if (!window.NadiStore) return;
 
-    // Show last data refresh time from manifest
-    const manifest = NadiStore.getManifest ? NadiStore.getManifest() : null;
-    const lastUpdatedEl = document.getElementById('hero-last-data-refresh');
-    if (lastUpdatedEl) {
-      if (manifest && manifest._meta && manifest._meta.generated_at) {
-        const fetchedAt = new Date(manifest._meta.generated_at);
-        const minsAgo = Math.round((Date.now() - fetchedAt) / 60000);
-        lastUpdatedEl.textContent = `Data last refreshed: ${minsAgo < 60 ? minsAgo + ' min ago' : fetchedAt.toLocaleTimeString('en-MY')}`;
-      } else {
-        lastUpdatedEl.textContent = 'Loading data...';
-      }
-    }
-
-    const TOTAL_DATASETS = 13;
-    let done = 0;
-    const syncBar = document.getElementById('hero-sync-bar');
-    const syncCount = document.getElementById('hero-sync-count');
-    const syncProgress = document.getElementById('hero-sync-progress');
-    const syncMsg = document.getElementById('hero-sync-msg');
-    const statusLabel = document.getElementById('hero-status-label');
-
-    if (syncBar) syncBar.style.display = 'block';
-
-    const messages = {
-      fuel: 'Fuel prices ✓',
-      weather_forecast: 'Weather data ✓',
-      weather_warnings: 'Weather warnings ✓',
-      earthquake: 'Seismic data ✓',
-      gdp: 'GDP data ✓',
-      inflation: 'Inflation data ✓',
-      unemployment: 'Employment data ✓',
-      population: 'Population stats ✓',
-      tourism_data: 'Tourism data ✓',
-      exchange: 'Exchange rates ✓',
-      flood_warnings: 'Flood alerts ✓',
-      trade: 'Trade data ✓',
-      openmeteo_all: 'Weather maps ✓'
-    };
-
-    NadiStore.onAny((key, data, stat) => {
-      if (stat === 'done' || stat === 'error') {
-        done = Math.min(done + 1, TOTAL_DATASETS);
-        const pct = Math.round((done / TOTAL_DATASETS) * 100);
-
-        if (syncCount) syncCount.textContent = `${done} / ${TOTAL_DATASETS}`;
-        if (syncProgress) syncProgress.style.width = `${pct}%`;
-        if (syncMsg && messages[key]) syncMsg.textContent = messages[key];
-
-        if (done >= TOTAL_DATASETS) {
-          if (syncBar) {
-            setTimeout(() => {
-              syncBar.style.opacity = '0';
-              syncBar.style.transition = 'opacity 1s';
-              setTimeout(() => { if (syncBar) syncBar.style.display = 'none'; }, 1000);
-            }, 3000);
-          }
-          if (statusLabel) {
-            statusLabel.textContent = 'LIVE';
-            statusLabel.style.color = 'var(--success)';
-          }
-        } else {
-          if (statusLabel) {
-            statusLabel.textContent = `SYNCING ${pct}%`;
-            statusLabel.style.color = 'var(--warning)';
-          }
-        }
-      }
-    });
-  }
 
   function translate() {
     const container = document.getElementById('section-hero-content');

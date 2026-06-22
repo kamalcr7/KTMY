@@ -1,15 +1,10 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-22T23:28:21.637Z",
+    "fetched_at": "2026-06-22T23:39:48.465Z",
     "source": "NADI Data Bot",
     "api_key": "inflation"
   },
   "data": [
-    {
-      "date": "2026-05-01",
-      "index": 133.1,
-      "division": "04"
-    },
     {
       "date": "2026-05-01",
       "index": 126.7,
@@ -22,8 +17,33 @@
     },
     {
       "date": "2026-05-01",
-      "index": 93,
-      "division": "03"
+      "index": 132.2,
+      "division": "10"
+    },
+    {
+      "date": "2026-05-01",
+      "index": 121.7,
+      "division": "09"
+    },
+    {
+      "date": "2026-05-01",
+      "index": 137.1,
+      "division": "overall"
+    },
+    {
+      "date": "2026-05-01",
+      "index": 160,
+      "division": "01"
+    },
+    {
+      "date": "2026-05-01",
+      "index": 133.4,
+      "division": "06"
+    },
+    {
+      "date": "2026-05-01",
+      "index": 133.1,
+      "division": "04"
     },
     {
       "date": "2026-05-01",
@@ -33,32 +53,7 @@
     {
       "date": "2026-05-01",
       "index": 160,
-      "division": "01"
-    },
-    {
-      "date": "2026-05-01",
-      "index": 160,
       "division": "11"
-    },
-    {
-      "date": "2026-05-01",
-      "index": 133.4,
-      "division": "06"
-    },
-    {
-      "date": "2026-05-01",
-      "index": 136.5,
-      "division": "13"
-    },
-    {
-      "date": "2026-05-01",
-      "index": 137.1,
-      "division": "overall"
-    },
-    {
-      "date": "2026-05-01",
-      "index": 91.3,
-      "division": "08"
     },
     {
       "date": "2026-05-01",
@@ -67,13 +62,43 @@
     },
     {
       "date": "2026-05-01",
-      "index": 121.7,
-      "division": "09"
+      "index": 93,
+      "division": "03"
     },
     {
       "date": "2026-05-01",
-      "index": 132.2,
-      "division": "10"
+      "index": 91.3,
+      "division": "08"
+    },
+    {
+      "date": "2026-05-01",
+      "index": 136.5,
+      "division": "13"
+    },
+    {
+      "date": "2026-04-01",
+      "index": 127.1,
+      "division": "05"
+    },
+    {
+      "date": "2026-04-01",
+      "index": 136.9,
+      "division": "overall"
+    },
+    {
+      "date": "2026-04-01",
+      "index": 178.1,
+      "division": "02"
+    },
+    {
+      "date": "2026-04-01",
+      "index": 91.3,
+      "division": "08"
+    },
+    {
+      "date": "2026-04-01",
+      "index": 117.3,
+      "division": "12"
     },
     {
       "date": "2026-04-01",
@@ -87,28 +112,18 @@
     },
     {
       "date": "2026-04-01",
-      "index": 127.1,
-      "division": "05"
+      "index": 136.6,
+      "division": "13"
     },
     {
       "date": "2026-04-01",
-      "index": 127.3,
-      "division": "07"
+      "index": 121.6,
+      "division": "09"
     },
     {
       "date": "2026-04-01",
       "index": 159.6,
-      "division": "11"
-    },
-    {
-      "date": "2026-04-01",
-      "index": 91.3,
-      "division": "08"
-    },
-    {
-      "date": "2026-04-01",
-      "index": 136.9,
-      "division": "overall"
+      "division": "01"
     },
     {
       "date": "2026-04-01",
@@ -117,13 +132,2378 @@
     },
     {
       "date": "2026-04-01",
-      "index": 178.1,
-      "division": "02"
+      "index": 127.3,
+      "division": "07"
+    },
+    {
+      "date": "2026-04-01",
+      "index": 132.5,
+      "division": "04"
     },
     {
       "date": "2026-04-01",
       "index": 159.6,
+      "division": "11"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 136.4,
+      "division": "overall"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 124.2,
+      "division": "07"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 159.6,
       "division": "01"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 117.3,
+      "division": "12"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 133.3,
+      "division": "06"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 177.8,
+      "division": "02"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 89.9,
+      "division": "08"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 131.9,
+      "division": "10"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 121.2,
+      "division": "09"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 126.8,
+      "division": "05"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 132.6,
+      "division": "04"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 159,
+      "division": "11"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2026-03-01",
+      "index": 137.6,
+      "division": "13"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 137,
+      "division": "13"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 136,
+      "division": "overall"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 121.7,
+      "division": "07"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 126.9,
+      "division": "05"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 121,
+      "division": "09"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 159.1,
+      "division": "11"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 159.8,
+      "division": "01"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 132.5,
+      "division": "04"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 133.1,
+      "division": "06"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 89.2,
+      "division": "08"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 177.6,
+      "division": "02"
+    },
+    {
+      "date": "2026-02-01",
+      "index": 131.7,
+      "division": "10"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 159.8,
+      "division": "01"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 121,
+      "division": "09"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 133.1,
+      "division": "06"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 126.9,
+      "division": "05"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 89.4,
+      "division": "08"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 135.7,
+      "division": "overall"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 131.6,
+      "division": "10"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 131.6,
+      "division": "04"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 158.9,
+      "division": "11"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 135.7,
+      "division": "13"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 121.4,
+      "division": "07"
+    },
+    {
+      "date": "2026-01-01",
+      "index": 177.4,
+      "division": "02"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 130.7,
+      "division": "10"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 89.5,
+      "division": "08"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 134.3,
+      "division": "13"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 135.5,
+      "division": "overall"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 127,
+      "division": "05"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 121.9,
+      "division": "07"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 177.3,
+      "division": "02"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 120.8,
+      "division": "09"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 159.5,
+      "division": "01"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 132.9,
+      "division": "06"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 131.2,
+      "division": "04"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2025-12-01",
+      "index": 158.4,
+      "division": "11"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 158.4,
+      "division": "11"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 127,
+      "division": "05"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 135.1,
+      "division": "overall"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 132.7,
+      "division": "06"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 177.2,
+      "division": "02"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 89,
+      "division": "08"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 158.8,
+      "division": "01"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 121.6,
+      "division": "07"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 130.9,
+      "division": "04"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 130.5,
+      "division": "10"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 121.1,
+      "division": "09"
+    },
+    {
+      "date": "2025-11-01",
+      "index": 134.1,
+      "division": "13"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 121,
+      "division": "09"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 135.1,
+      "division": "overall"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 121.6,
+      "division": "07"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 134,
+      "division": "13"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 90.1,
+      "division": "08"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 132.7,
+      "division": "06"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 173.6,
+      "division": "02"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 130.3,
+      "division": "10"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 131,
+      "division": "04"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 158.8,
+      "division": "01"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 92.9,
+      "division": "03"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 127,
+      "division": "05"
+    },
+    {
+      "date": "2025-10-01",
+      "index": 158.2,
+      "division": "11"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 157.9,
+      "division": "11"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 127,
+      "division": "05"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 90.1,
+      "division": "08"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 135.2,
+      "division": "overall"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 130,
+      "division": "10"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 173.6,
+      "division": "02"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 131.6,
+      "division": "04"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 122.7,
+      "division": "07"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 158.5,
+      "division": "01"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 120.8,
+      "division": "09"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 132.1,
+      "division": "13"
+    },
+    {
+      "date": "2025-09-01",
+      "index": 132.4,
+      "division": "06"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 158,
+      "division": "11"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 173.6,
+      "division": "02"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 131.2,
+      "division": "04"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 130,
+      "division": "10"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 131.1,
+      "division": "13"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 89.1,
+      "division": "08"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 122.5,
+      "division": "07"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 134.9,
+      "division": "overall"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 132.3,
+      "division": "06"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 120.8,
+      "division": "09"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 127,
+      "division": "05"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 158.2,
+      "division": "01"
+    },
+    {
+      "date": "2025-08-01",
+      "index": 117,
+      "division": "12"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 88.4,
+      "division": "08"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 157.4,
+      "division": "11"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 130.8,
+      "division": "13"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 129.8,
+      "division": "10"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 131,
+      "division": "04"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 132.2,
+      "division": "06"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 116.9,
+      "division": "12"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 158,
+      "division": "01"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 120.6,
+      "division": "09"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 134.7,
+      "division": "overall"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 173.6,
+      "division": "02"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 126.9,
+      "division": "05"
+    },
+    {
+      "date": "2025-07-01",
+      "index": 122.6,
+      "division": "07"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 158.1,
+      "division": "01"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 156.2,
+      "division": "11"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 130.8,
+      "division": "13"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 126.7,
+      "division": "05"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 111.8,
+      "division": "12"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 173.3,
+      "division": "02"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 89.2,
+      "division": "08"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 131.8,
+      "division": "06"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 120.5,
+      "division": "09"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 122.3,
+      "division": "07"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 129.6,
+      "division": "10"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 131.5,
+      "division": "04"
+    },
+    {
+      "date": "2025-06-01",
+      "index": 134.5,
+      "division": "overall"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 131.8,
+      "division": "06"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 156.1,
+      "division": "11"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 126.7,
+      "division": "05"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 131.5,
+      "division": "04"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 157.8,
+      "division": "01"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 173.3,
+      "division": "02"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 134.4,
+      "division": "overall"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 129.3,
+      "division": "10"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 111.8,
+      "division": "12"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 122.1,
+      "division": "07"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 89.4,
+      "division": "08"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 120.4,
+      "division": "09"
+    },
+    {
+      "date": "2025-05-01",
+      "index": 130.3,
+      "division": "13"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 134.3,
+      "division": "overall"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 122.3,
+      "division": "07"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 131.1,
+      "division": "04"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 131.6,
+      "division": "06"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 129,
+      "division": "10"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 130.3,
+      "division": "13"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 120.5,
+      "division": "09"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 173.2,
+      "division": "02"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 126.6,
+      "division": "05"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 111.8,
+      "division": "12"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 157.7,
+      "division": "01"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 155.5,
+      "division": "11"
+    },
+    {
+      "date": "2025-04-01",
+      "index": 89.5,
+      "division": "08"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 120,
+      "division": "09"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 88.7,
+      "division": "08"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 173.1,
+      "division": "02"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 128.6,
+      "division": "13"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 134.1,
+      "division": "overall"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 128.7,
+      "division": "10"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 111.8,
+      "division": "12"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 131,
+      "division": "04"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 126.7,
+      "division": "05"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 155,
+      "division": "11"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 157.8,
+      "division": "01"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 131.5,
+      "division": "06"
+    },
+    {
+      "date": "2025-03-01",
+      "index": 122.3,
+      "division": "07"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 88.8,
+      "division": "08"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 173.1,
+      "division": "02"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 120,
+      "division": "09"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 128.2,
+      "division": "13"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 134.1,
+      "division": "overall"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 131,
+      "division": "04"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 155.2,
+      "division": "11"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 126.6,
+      "division": "05"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 111.8,
+      "division": "12"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 122.6,
+      "division": "07"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 128.1,
+      "division": "10"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 157.7,
+      "division": "01"
+    },
+    {
+      "date": "2025-02-01",
+      "index": 131.5,
+      "division": "06"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 88.8,
+      "division": "08"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 119.9,
+      "division": "09"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 130.1,
+      "division": "04"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 127.3,
+      "division": "13"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 157.4,
+      "division": "01"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 133.6,
+      "division": "overall"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 131.3,
+      "division": "06"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 122.3,
+      "division": "07"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 127.5,
+      "division": "10"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 154.3,
+      "division": "11"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 126.7,
+      "division": "05"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 173.1,
+      "division": "02"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 93,
+      "division": "03"
+    },
+    {
+      "date": "2025-01-01",
+      "index": 110.9,
+      "division": "12"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 153.6,
+      "division": "11"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 172.9,
+      "division": "02"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 92.9,
+      "division": "03"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 126.6,
+      "division": "05"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 88.7,
+      "division": "08"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 130.9,
+      "division": "06"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 121.8,
+      "division": "07"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 133.4,
+      "division": "overall"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 157.2,
+      "division": "01"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 110.8,
+      "division": "12"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 130,
+      "division": "04"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 127,
+      "division": "13"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 127.2,
+      "division": "10"
+    },
+    {
+      "date": "2024-12-01",
+      "index": 119.8,
+      "division": "09"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 119.7,
+      "division": "09"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 126.7,
+      "division": "05"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 153.2,
+      "division": "11"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 93.1,
+      "division": "03"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 90.2,
+      "division": "08"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 127.2,
+      "division": "10"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 173.1,
+      "division": "02"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 156.5,
+      "division": "01"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 133.3,
+      "division": "overall"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 121.4,
+      "division": "07"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 110.8,
+      "division": "12"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 127,
+      "division": "13"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 130.8,
+      "division": "06"
+    },
+    {
+      "date": "2024-11-01",
+      "index": 130,
+      "division": "04"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 126.6,
+      "division": "05"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 127.2,
+      "division": "10"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 130.8,
+      "division": "06"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 126.4,
+      "division": "13"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 156.5,
+      "division": "01"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 153,
+      "division": "11"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 133.4,
+      "division": "overall"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 121.7,
+      "division": "07"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 110.8,
+      "division": "12"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 129.6,
+      "division": "04"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 93.2,
+      "division": "03"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 92.3,
+      "division": "08"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 119.6,
+      "division": "09"
+    },
+    {
+      "date": "2024-10-01",
+      "index": 173.1,
+      "division": "02"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 152.8,
+      "division": "11"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 127,
+      "division": "10"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 126.7,
+      "division": "05"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 126.1,
+      "division": "13"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 130.7,
+      "division": "06"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 93.2,
+      "division": "03"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 173,
+      "division": "02"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 119.7,
+      "division": "09"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 94.3,
+      "division": "08"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 129.6,
+      "division": "04"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 155.2,
+      "division": "01"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 110.8,
+      "division": "12"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 121.9,
+      "division": "07"
+    },
+    {
+      "date": "2024-09-01",
+      "index": 133.2,
+      "division": "overall"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 152.7,
+      "division": "11"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 122.2,
+      "division": "07"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 127,
+      "division": "10"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 129.6,
+      "division": "04"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 110.8,
+      "division": "12"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 126,
+      "division": "13"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 119.7,
+      "division": "09"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 93.2,
+      "division": "03"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 126.8,
+      "division": "05"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 172.9,
+      "division": "02"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 130.8,
+      "division": "06"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 94.4,
+      "division": "08"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 133.2,
+      "division": "overall"
+    },
+    {
+      "date": "2024-08-01",
+      "index": 155.1,
+      "division": "01"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 122.1,
+      "division": "07"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 152.6,
+      "division": "11"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 119.7,
+      "division": "09"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 129.3,
+      "division": "04"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 110.8,
+      "division": "12"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 125.9,
+      "division": "13"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 172.6,
+      "division": "02"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 93.3,
+      "division": "03"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 127,
+      "division": "10"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 155,
+      "division": "01"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 133.1,
+      "division": "overall"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 130.6,
+      "division": "06"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 94.4,
+      "division": "08"
+    },
+    {
+      "date": "2024-07-01",
+      "index": 126.8,
+      "division": "05"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 119.6,
+      "division": "09"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 152,
+      "division": "11"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 126.6,
+      "division": "05"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 94.3,
+      "division": "08"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 121.9,
+      "division": "07"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 125.5,
+      "division": "13"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 130.2,
+      "division": "06"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 172.3,
+      "division": "02"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 93.3,
+      "division": "03"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 133,
+      "division": "overall"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 129.3,
+      "division": "04"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 154.9,
+      "division": "01"
+    },
+    {
+      "date": "2024-06-01",
+      "index": 126.8,
+      "division": "10"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 151.6,
+      "division": "11"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 126.5,
+      "division": "05"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 119.3,
+      "division": "09"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 94.3,
+      "division": "08"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 121.3,
+      "division": "07"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 125.6,
+      "division": "13"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 154.5,
+      "division": "01"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 130.4,
+      "division": "06"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 126.5,
+      "division": "10"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 172.2,
+      "division": "02"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 129.3,
+      "division": "04"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 93.3,
+      "division": "03"
+    },
+    {
+      "date": "2024-05-01",
+      "index": 132.8,
+      "division": "overall"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 126.5,
+      "division": "05"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 93.7,
+      "division": "08"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 151.1,
+      "division": "11"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 93.2,
+      "division": "03"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 125.2,
+      "division": "13"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 119,
+      "division": "09"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 171.9,
+      "division": "02"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 126.1,
+      "division": "10"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 128.5,
+      "division": "04"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 121.4,
+      "division": "07"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 154.1,
+      "division": "01"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 130.4,
+      "division": "06"
+    },
+    {
+      "date": "2024-04-01",
+      "index": 132.4,
+      "division": "overall"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 93.3,
+      "division": "03"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 128.5,
+      "division": "04"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 150.6,
+      "division": "11"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 130.2,
+      "division": "06"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 171.8,
+      "division": "02"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 153.9,
+      "division": "01"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 126.4,
+      "division": "05"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 121.5,
+      "division": "07"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 93.8,
+      "division": "08"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 124.1,
+      "division": "13"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 118,
+      "division": "09"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 132.2,
+      "division": "overall"
+    },
+    {
+      "date": "2024-03-01",
+      "index": 125.9,
+      "division": "10"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 153.9,
+      "division": "01"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 130.2,
+      "division": "06"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 128.1,
+      "division": "04"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 93.3,
+      "division": "03"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 132.1,
+      "division": "overall"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 171.5,
+      "division": "02"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 121.7,
+      "division": "07"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 118.2,
+      "division": "09"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 123.6,
+      "division": "13"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 93.8,
+      "division": "08"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 126.2,
+      "division": "05"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 125.7,
+      "division": "10"
+    },
+    {
+      "date": "2024-02-01",
+      "index": 150,
+      "division": "11"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 129.8,
+      "division": "06"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 131.4,
+      "division": "overall"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 126.5,
+      "division": "04"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 123.2,
+      "division": "13"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 93.8,
+      "division": "08"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 149.1,
+      "division": "11"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 171.5,
+      "division": "02"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 121.2,
+      "division": "07"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 153.5,
+      "division": "01"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 93.3,
+      "division": "03"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 117.8,
+      "division": "09"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 125.5,
+      "division": "10"
+    },
+    {
+      "date": "2024-01-01",
+      "index": 126.1,
+      "division": "05"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 131.2,
+      "division": "overall"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 126.1,
+      "division": "05"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 125.3,
+      "division": "10"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 93.4,
+      "division": "03"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 149.2,
+      "division": "11"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 121.3,
+      "division": "07"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 171.6,
+      "division": "02"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 129.5,
+      "division": "06"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 93.8,
+      "division": "08"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 123.1,
+      "division": "13"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 117.8,
+      "division": "09"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 153,
+      "division": "01"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2023-12-01",
+      "index": 126,
+      "division": "04"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 130.9,
+      "division": "overall"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 93.4,
+      "division": "03"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 120.9,
+      "division": "07"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 125.3,
+      "division": "10"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 149,
+      "division": "11"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 126.1,
+      "division": "05"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 122.8,
+      "division": "13"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 152.6,
+      "division": "01"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 93.9,
+      "division": "08"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 171.8,
+      "division": "02"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 126,
+      "division": "04"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 129.3,
+      "division": "06"
+    },
+    {
+      "date": "2023-11-01",
+      "index": 117.3,
+      "division": "09"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 120.8,
+      "division": "07"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 148.8,
+      "division": "11"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 125.3,
+      "division": "10"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 130.9,
+      "division": "overall"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 117.2,
+      "division": "09"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 125.7,
+      "division": "04"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 93.4,
+      "division": "03"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 129,
+      "division": "06"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 171.7,
+      "division": "02"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 153,
+      "division": "01"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 126,
+      "division": "05"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 93.9,
+      "division": "08"
+    },
+    {
+      "date": "2023-10-01",
+      "index": 122.3,
+      "division": "13"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 120.6,
+      "division": "07"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 117.2,
+      "division": "09"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 125.1,
+      "division": "10"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 125.7,
+      "division": "04"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 93.9,
+      "division": "08"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 130.8,
+      "division": "overall"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 171.7,
+      "division": "02"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 148.1,
+      "division": "11"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 152.8,
+      "division": "01"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 128.7,
+      "division": "06"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 93.5,
+      "division": "03"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 125.9,
+      "division": "05"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 122.3,
+      "division": "13"
+    },
+    {
+      "date": "2023-09-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 117.3,
+      "division": "09"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 125.7,
+      "division": "04"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 93.9,
+      "division": "08"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 148,
+      "division": "11"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 128.8,
+      "division": "06"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 93.4,
+      "division": "03"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 130.7,
+      "division": "overall"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 120.6,
+      "division": "07"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 122.1,
+      "division": "13"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 125.9,
+      "division": "05"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 171.1,
+      "division": "02"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 152.6,
+      "division": "01"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2023-08-01",
+      "index": 125.1,
+      "division": "10"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 93.9,
+      "division": "08"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 128.2,
+      "division": "06"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 122,
+      "division": "13"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 110.2,
+      "division": "12"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 130.5,
+      "division": "overall"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 93.5,
+      "division": "03"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 117.1,
+      "division": "09"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 171.1,
+      "division": "02"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 125.7,
+      "division": "05"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 152.5,
+      "division": "01"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 124.9,
+      "division": "10"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 147.6,
+      "division": "11"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 120.6,
+      "division": "07"
+    },
+    {
+      "date": "2023-07-01",
+      "index": 125.3,
+      "division": "04"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 151.9,
+      "division": "01"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 110.3,
+      "division": "12"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 127.9,
+      "division": "06"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 122.1,
+      "division": "13"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 93.4,
+      "division": "03"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 117.4,
+      "division": "09"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 94,
+      "division": "08"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 125.5,
+      "division": "05"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 124.7,
+      "division": "10"
+    },
+    {
+      "date": "2023-06-01",
+      "index": 147.1,
+      "division": "11"
     }
   ]
 }

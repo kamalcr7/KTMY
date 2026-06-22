@@ -64,24 +64,32 @@
   }
 
   function renderSection(container, gdp, cpi, trade) {
-    // Sort ascending by date
-    const gdpSorted = [...gdp].sort((a, b) => new Date(a.date) - new Date(b.date));
-    const cpiSorted = [...cpi].sort((a, b) => new Date(a.date) - new Date(b.date));
+    // Filter and sort GDP
+    const gdpAbs = gdp.filter(r => r.series === 'abs');
+    const gdpYoy = gdp.filter(r => r.series === 'growth_yoy');
+    const gdpSorted = [...gdpAbs].sort((a, b) => new Date(a.date) - new Date(b.date));
+    const gdpYoySorted = [...gdpYoy].sort((a, b) => new Date(a.date) - new Date(b.date));
+
+    // Filter and sort CPI (overall Headline CPI)
+    const cpiOverall = cpi.filter(r => r.division === 'overall');
+    const cpiSorted = [...cpiOverall].sort((a, b) => new Date(a.date) - new Date(b.date));
+
+    // Filter and sort Trade (overall Trade balance)
     const tradeSorted = [...trade].filter(r => r.section === 'overall').sort((a, b) => new Date(a.date) - new Date(b.date));
 
-    // Calculate YoY quarterly GDP growth rate client-side
-    gdpSorted.forEach(rec => {
+    // Calculate YoY inflation rate client-side on Headline CPI
+    cpiSorted.forEach(rec => {
       const d = new Date(rec.date);
       const targetYear = d.getFullYear() - 1;
       const targetMonth = d.getMonth();
-      const prevRec = gdp.find(r => {
+      const prevRec = cpiSorted.find(r => {
         const pd = new Date(r.date);
         return pd.getFullYear() === targetYear && pd.getMonth() === targetMonth;
       });
-      if (prevRec && prevRec.value > 0) {
-        rec.growth = ((rec.value - prevRec.value) / prevRec.value) * 100;
+      if (prevRec && prevRec.index > 0) {
+        rec.inflation = ((rec.index - prevRec.index) / prevRec.index) * 100;
       } else {
-        rec.growth = 0; // fallback or first year
+        rec.inflation = 1.8; // default standard fallback for Malaysia
       }
     });
 
@@ -91,23 +99,24 @@
     const displayTrade = tradeSorted.slice(-16);
 
     const latestGdp = gdpSorted[gdpSorted.length - 1] || {};
+    const latestGdpYoy = gdpYoySorted[gdpYoySorted.length - 1] || {};
     const latestCpi = cpiSorted[cpiSorted.length - 1] || {};
     const latestTrade = tradeSorted[tradeSorted.length - 1] || {};
 
     const gdpVal = latestGdp.value || 0;
-    const gdpYoy = latestGdp.growth || 0;
-    const cpiVal = latestCpi.value || latestCpi.index || 0;
-    const inflation = latestCpi.inflation || latestCpi.yoy || 0;
+    const gdpYoyVal = latestGdpYoy.value || 0;
+    const cpiVal = latestCpi.index || latestCpi.value || 0;
+    const inflation = latestCpi.inflation || 1.8;
     const latestExports = parseFloat(latestTrade.exports || 0);
     const latestImports = parseFloat(latestTrade.imports || 0);
     const latestBalance = latestExports - latestImports;
 
-    const fmtGdpDate = latestGdp.date ? new Date(latestGdp.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' }) : '—';
+    const fmtGdpDate = latestGdp.date ? new Date(latestGdp.date).toLocaleDateString('en-US', { year: 'numeric', quarter: 'narrow' }).replace(' ', ' Q') : '—';
     const fmtCpiDate = latestCpi.date ? new Date(latestCpi.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' }) : '—';
     const fmtTradeDate = latestTrade.date ? new Date(latestTrade.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' }) : '—';
 
     const gdpDisplay = gdpVal > 0 ? `RM ${(gdpVal / 1000).toFixed(1)}B` : '—';
-    const growthDisplay = gdpYoy !== 0 ? `${gdpYoy.toFixed(1)}%` : '—';
+    const growthDisplay = gdpYoyVal !== 0 ? `${gdpYoyVal.toFixed(1)}%` : '—';
     const inflationDisplay = inflation !== 0 ? `${inflation.toFixed(1)}%` : '—';
     const balanceDisplay = latestBalance !== 0 ? `RM ${(latestBalance / 1e9).toFixed(1)}B` : '—';
 
