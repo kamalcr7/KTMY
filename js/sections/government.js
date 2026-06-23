@@ -204,6 +204,9 @@
   function init() {
     const container = document.getElementById('section-government-content');
     if (!container) return;
+    
+    // Always reset rendered flag to ensure re-render on navigation
+    rendered = false;
 
     const budget = {
       revenue: 339.7,
