@@ -349,15 +349,17 @@ body::after {
   pointer-events: none;
 }
 
-.glass-card:hover {
-  background: rgba(255, 255, 255, 0.046);
-  border-color: rgba(255, 255, 255, 0.12);
-  box-shadow: var(--shadow-card-hover);
-  transform: translateY(-5px);
-}
+@media (hover: hover) {
+  .glass-card:hover {
+    background: rgba(255, 255, 255, 0.046);
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: var(--shadow-card-hover);
+    transform: translateY(-5px);
+  }
 
-.glass-card:hover::after {
-  opacity: 1;
+  .glass-card:hover::after {
+    opacity: 1;
+  }
 }
 
 /* Flat variant */
@@ -974,5 +976,21 @@ body::after {
       radial-gradient(ellipse 110% 75% at 5% 0%, rgba(0, 201, 167, 0.12) 0%, transparent 55%),
       radial-gradient(ellipse 75% 55% at 95% 20%, rgba(77, 124, 254, 0.10) 0%, transparent 55%),
       linear-gradient(180deg, #040811 0%, #07091a 55%, #040811 100%);
+  }
+}
+
+/* ============================================================
+   MOBILE & TOUCH OPTIMIZATIONS
+   ============================================================ */
+@media (max-width: 768px) {
+  body::before {
+    animation: none !important;
+    background: linear-gradient(180deg, #040811 0%, #07091a 100%) !important;
+  }
+  body::after {
+    display: none !important; /* Disable noise pattern to save GPU repaints */
+  }
+  .chart-container {
+    min-height: 250px !important; /* Restore height from responsive.css */
   }
 }

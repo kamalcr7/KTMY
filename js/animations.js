@@ -63,7 +63,7 @@
      2. FLOATING BACKGROUND ORBS
      ============================================================ */
   function initFloatingOrbs() {
-    if (prefersReducedMotion()) return;
+    if (prefersReducedMotion() || isTouchDevice()) return;
 
     const orbData = [
       { color: 'rgba(0, 201, 167, 0.10)', size: 700, x: 8, y: 15, dur: 28, dx: 70, dy: -35 },
@@ -126,6 +126,7 @@
      ============================================================ */
   function revealTabContent(tabEl) {
     if (!tabEl) return;
+    if (isTouchDevice()) return;
 
     const cards = tabEl.querySelectorAll(
       '.glass-card, .chart-container, .weather-card, .price-tag, ' +
@@ -261,7 +262,7 @@
   function initParticles() {
     const canvas = document.getElementById('particle-canvas');
     if (!canvas) return;
-    if (prefersReducedMotion()) {
+    if (prefersReducedMotion() || isTouchDevice()) {
       canvas.style.display = 'none';
       return;
     }
