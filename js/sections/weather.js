@@ -297,7 +297,7 @@
           </button>
         </div>
 
-        <div style="position:relative; width: 100%; height: 480px; overflow: hidden; background: #0b0e27;">
+        <div class="weather-map-iframe-container" style="position:relative; width: 100%; height: 480px; overflow: hidden; background: #0b0e27;">
           <iframe 
             id="windy-weather-map"
             src="https://embed.windy.com/embed2.html?lat=${city.lat}&lon=${city.lon}&zoom=7&level=surface&overlay=wind&menu=&message=true&marker=true&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" 

@@ -141,17 +141,17 @@
 /* ---------- Phone (480px) ---------- */
 @media (max-width: 480px) {
   :root {
-    --container-padding: 0.75rem;
-    --space-lg: 0.75rem;
-    --space-md: 0.5rem;
-    --space-sm: 0.375rem;
-    --fs-h1: 1.4rem;
-    --fs-h2: 1.2rem;
-    --fs-h3: 1.0rem;
-    --fs-h4: 0.9rem;
-    --fs-body: 0.85rem;
-    --fs-small: 0.75rem;
-    --fs-xs: 0.7rem;
+    --container-padding: 1rem;
+    --space-lg: 1.25rem;
+    --space-md: 0.875rem;
+    --space-sm: 0.5rem;
+    --fs-h1: 1.55rem;
+    --fs-h2: 1.3rem;
+    --fs-h3: 1.1rem;
+    --fs-h4: 0.95rem;
+    --fs-body: 0.88rem;
+    --fs-small: 0.78rem;
+    --fs-xs: 0.72rem;
   }
 
   .grid-4 { grid-template-columns: 1fr; }
@@ -170,9 +170,9 @@
   }
 
   .glass-card {
-    padding: var(--space-sm) var(--space-md);
-    border-radius: 10px;
-    margin-bottom: 0.5rem;
+    padding: 1.25rem 1rem;
+    border-radius: 14px;
+    margin-bottom: 1rem;
   }
 
   .weather-card {
@@ -282,14 +282,14 @@
     transform: translateX(-100%);
   }
 
-  /* Reduce gaps */
-  .mb-xl { margin-bottom: 1rem; }
-  .mb-lg { margin-bottom: 0.75rem; }
-  .mb-md { margin-bottom: 0.5rem; }
-  .mt-2xl { margin-top: 1.5rem; }
-  .mb-2xl { margin-bottom: 1.5rem; }
-  .gap-md { gap: 0.5rem; }
-  .gap-lg { gap: 0.75rem; }
+  /* Spacing and margins on mobile */
+  .mb-xl { margin-bottom: 1.5rem; }
+  .mb-lg { margin-bottom: 1.25rem; }
+  .mb-md { margin-bottom: 0.875rem; }
+  .mt-2xl { margin-top: 2rem; }
+  .mb-2xl { margin-bottom: 2rem; }
+  .gap-md { gap: 0.875rem; }
+  .gap-lg { gap: 1.25rem; }
 }
 
 /* ---------- Large Desktop (1440px+) ---------- */
@@ -377,5 +377,76 @@
   }
   .section-header {
     margin-bottom: var(--space-md);
+  }
+}
+
+/* ============================================================
+   MOBILE OVERFLOW, CRAMP & COLLISION REFINEMENTS (v3.1)
+   ============================================================ */
+@media (max-width: 768px) {
+  /* Prevent flex columns/rows collision on header tabs */
+  .flex-between {
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+  }
+
+  /* Specific fix for government & tariff header cards overflow */
+  #tab-government .flex-between,
+  #tab-tariffs .flex-between {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  #tab-government .flex-between .tag,
+  #tab-tariffs .flex-between .tag {
+    align-self: flex-start !important;
+  }
+
+  /* Position floating feedback button above bottom nav bar */
+  .feedback-fab {
+    bottom: 82px !important;
+    right: 16px !important;
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 1.25rem !important;
+  }
+  .feedback-card {
+    bottom: 140px !important;
+    right: 16px !important;
+    width: calc(100vw - 32px) !important;
+    max-width: 300px !important;
+  }
+
+  /* Weather page mobile layout improvements */
+  .weather-current-hero {
+    padding: 1rem !important;
+  }
+  
+  .weather-gauges-row {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 8px !important;
+  }
+
+  /* Horizontally scrollable 7-day forecast to prevent stacking cramps */
+  .forecast-days-container {
+    display: flex !important;
+    overflow-x: auto !important;
+    scroll-snap-type: x mandatory !important;
+    scrollbar-width: none !important;
+    gap: 8px !important;
+    padding-bottom: 8px !important;
+  }
+  .forecast-days-container::-webkit-scrollbar {
+    display: none !important;
+  }
+  .forecast-day-card {
+    flex: 0 0 115px !important;
+    scroll-snap-align: start !important;
+    padding: 12px 8px !important;
+  }
+
+  /* Responsive Weather Map height */
+  .weather-map-iframe-container {
+    height: 320px !important;
   }
 }
