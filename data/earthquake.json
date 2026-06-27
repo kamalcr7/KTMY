@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-27T06:57:17.542Z",
+    "fetched_at": "2026-06-27T10:14:00.169Z",
     "source": "KTMY Data Bot",
     "api_key": "earthquake"
   },
@@ -15204,6 +15204,25 @@
       "visible": true,
       "lat_vector": "5.2942° U",
       "lon_vector": "125.1448° T"
+    },
+    {
+      "utcdatetime": "2026-06-27T07:47:22",
+      "localdatetime": "2026-06-27T15:47:22",
+      "lat": -9.137758,
+      "lon": 111.093842,
+      "depth": 94,
+      "location": "South of Java, Indonesia",
+      "location_original": "South of Java, Indonesia",
+      "n_distancemas": "1,131km S Tebedu,Sarawak",
+      "n_distancerest": "168km SW Blitar,Indonesia",
+      "nbm_distancemas": "1,131km S Tebedu,Sarawak",
+      "nbm_distancerest": "168km BD Blitar,Indonesia",
+      "magdefault": 5.2,
+      "magtypedefault": "mb",
+      "status": "NORMAL",
+      "visible": true,
+      "lat_vector": "9.1378° S",
+      "lon_vector": "111.0938° T"
     }
   ]
 }
