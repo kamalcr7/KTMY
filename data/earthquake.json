@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-27T10:14:00.169Z",
+    "fetched_at": "2026-06-27T13:52:46.152Z",
     "source": "KTMY Data Bot",
     "api_key": "earthquake"
   },
@@ -15223,6 +15223,25 @@
       "visible": true,
       "lat_vector": "9.1378° S",
       "lon_vector": "111.0938° T"
+    },
+    {
+      "utcdatetime": "2026-06-27T10:37:02",
+      "localdatetime": "2026-06-27T18:37:02",
+      "lat": -6.934996,
+      "lon": 125.703056,
+      "depth": 524,
+      "location": "Banda Sea, Indonesia",
+      "location_original": "Banda Sea",
+      "n_distancemas": "1,494km SE Semporna,Sabah",
+      "n_distancerest": "431km NE Kupang,Indonesia",
+      "nbm_distancemas": "1,494km TG Semporna,Sabah",
+      "nbm_distancerest": "431km TL Kupang,Indonesia",
+      "magdefault": 5.3,
+      "magtypedefault": "mb",
+      "status": "NORMAL",
+      "visible": true,
+      "lat_vector": "6.9350° S",
+      "lon_vector": "125.7031° T"
     }
   ]
 }
