@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-29T21:38:27.223Z",
+    "fetched_at": "2026-06-29T23:02:31.715Z",
     "source": "KTMY Data Bot",
     "api_key": "weather_forecast"
   },
@@ -5584,10 +5584,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "summary_forecast": "Mendung",
+      "summary_when": "Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -5682,10 +5682,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -5919,11 +5919,11 @@
         "location_name": "Temerloh"
       },
       "date": "2026-07-04",
-      "morning_forecast": "Ribut petir di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -6074,10 +6074,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -6270,7 +6270,7 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Ribut petir di beberapa tempat",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
       "summary_when": "Pagi",
@@ -6409,11 +6409,11 @@
         "location_name": "Maran"
       },
       "date": "2026-07-04",
-      "morning_forecast": "Ribut petir di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Ribut petir di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
-      "summary_when": "Sepanjang Hari",
+      "summary_when": "Petang dan Malam",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -6927,11 +6927,11 @@
         "location_name": "Bera"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -7251,9 +7251,9 @@
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "night_forecast": "Mendung",
+      "summary_forecast": "Mendung",
+      "summary_when": "Malam",
       "min_temp": 23,
       "max_temp": 33
     },
@@ -7545,9 +7545,9 @@
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "night_forecast": "Mendung",
+      "summary_forecast": "Mendung",
+      "summary_when": "Malam",
       "min_temp": 23,
       "max_temp": 33
     },
@@ -7809,11 +7809,11 @@
         "location_name": "Rompin"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir di beberapa tempat",
-      "summary_when": "Pagi",
+      "summary_forecast": "Tiada hujan",
+      "summary_when": "Sepanjang Hari",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -8915,7 +8915,7 @@
         "location_name": "Tebedu"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -9209,7 +9209,7 @@
         "location_name": "Kuching"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -9307,7 +9307,7 @@
         "location_name": "Serian"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -9405,7 +9405,7 @@
         "location_name": "Samarahan"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -9503,7 +9503,7 @@
         "location_name": "Asajaya"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di kebanyakan tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -9601,7 +9601,7 @@
         "location_name": "Simunjan"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -10777,7 +10777,7 @@
         "location_name": "Daro"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Hujan di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -10875,7 +10875,7 @@
         "location_name": "Sibu"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Hujan di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -11169,7 +11169,7 @@
         "location_name": "Matu"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Hujan di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -11267,7 +11267,7 @@
         "location_name": "Dalat"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Hujan di beberapa tempat",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -15481,7 +15481,7 @@
         "location_name": "Kuching"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -15579,7 +15579,7 @@
         "location_name": "Serian"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -15677,7 +15677,7 @@
         "location_name": "Samarahan"
       },
       "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Hujan di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -18855,11 +18855,11 @@
         "location_name": "Pusat Konservasi Gajah Kebangsaan"
       },
       "date": "2026-07-04",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 35
     },
@@ -18981,11 +18981,11 @@
         "location_name": "Tasik Bera"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -19471,11 +19471,11 @@
         "location_name": "Pulau Tioman"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi",
+      "summary_forecast": "Tiada hujan",
+      "summary_when": "Sepanjang Hari",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -20549,11 +20549,11 @@
         "location_name": "Pahang"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir di beberapa tempat di kawasan pedalaman",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir di beberapa tempat di kawasan pedalaman",
       "night_forecast": "Ribut petir di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
-      "summary_when": "Sepanjang Hari",
+      "summary_when": "Petang dan Malam",
       "min_temp": 23,
       "max_temp": 35
     },
@@ -20774,10 +20774,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -20872,10 +20872,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -27830,10 +27830,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28026,10 +28026,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28320,10 +28320,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "summary_forecast": "Mendung",
+      "summary_when": "Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28418,10 +28418,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28614,10 +28614,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28712,10 +28712,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "summary_forecast": "Mendung",
+      "summary_when": "Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28810,10 +28810,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -28908,10 +28908,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "summary_forecast": "Mendung",
+      "summary_when": "Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29006,10 +29006,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "summary_forecast": "Mendung",
+      "summary_when": "Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29104,10 +29104,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29202,10 +29202,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29300,10 +29300,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29398,10 +29398,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29594,10 +29594,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29790,10 +29790,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "summary_forecast": "Mendung",
+      "summary_when": "Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29888,10 +29888,10 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
+      "summary_when": "Pagi dan Petang",
       "min_temp": 24,
       "max_temp": 34
     },
@@ -29986,7 +29986,7 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Ribut petir",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
       "summary_when": "Pagi",
@@ -30084,248 +30084,248 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Mendung",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Mendung",
-      "summary_when": "Pagi",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-07-06",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-07-05",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-07-04",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-07-02",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-07-01",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn089",
-        "location_name": "Paka"
-      },
-      "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-07-06",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-07-05",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-07-04",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-07-02",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-07-01",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn090",
-        "location_name": "Kajang"
-      },
-      "date": "2026-06-30",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Tiada hujan",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
-      "min_temp": 24,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn091",
-        "location_name": "Mentakab"
-      },
-      "date": "2026-07-06",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn091",
-        "location_name": "Mentakab"
-      },
-      "date": "2026-07-05",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn091",
-        "location_name": "Mentakab"
-      },
-      "date": "2026-07-04",
-      "morning_forecast": "Ribut petir",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
       "summary_when": "Pagi dan Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-07-06",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-07-05",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-07-04",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-07-03",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-07-02",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-07-01",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn089",
+        "location_name": "Paka"
+      },
+      "date": "2026-06-30",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-07-06",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-07-05",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-07-04",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-07-03",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-07-02",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-07-01",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn090",
+        "location_name": "Kajang"
+      },
+      "date": "2026-06-30",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Tiada hujan",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Tiada hujan",
+      "summary_when": "Sepanjang Hari",
+      "min_temp": 24,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn091",
+        "location_name": "Mentakab"
+      },
+      "date": "2026-07-06",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn091",
+        "location_name": "Mentakab"
+      },
+      "date": "2026-07-05",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn091",
+        "location_name": "Mentakab"
+      },
+      "date": "2026-07-04",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -30713,11 +30713,11 @@
         "location_name": "Temerloh"
       },
       "date": "2026-07-04",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -30966,7 +30966,7 @@
       },
       "date": "2026-06-30",
       "morning_forecast": "Ribut petir",
-      "afternoon_forecast": "Tiada hujan",
+      "afternoon_forecast": "Mendung",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
       "summary_when": "Pagi",
@@ -31329,11 +31329,11 @@
         "location_name": "Triang"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -31427,11 +31427,11 @@
         "location_name": "Bera"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi dan Petang",
+      "summary_when": "Petang",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -31497,11 +31497,11 @@
         "location_name": "Maran"
       },
       "date": "2026-07-04",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Ribut petir",
       "summary_forecast": "Ribut petir",
-      "summary_when": "Sepanjang Hari",
+      "summary_when": "Petang dan Malam",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -32143,9 +32143,9 @@
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "night_forecast": "Mendung",
+      "summary_forecast": "Mendung",
+      "summary_when": "Malam",
       "min_temp": 23,
       "max_temp": 33
     },
@@ -32241,9 +32241,9 @@
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "night_forecast": "Mendung",
+      "summary_forecast": "Mendung",
+      "summary_when": "Malam",
       "min_temp": 23,
       "max_temp": 33
     },
@@ -32799,11 +32799,11 @@
         "location_name": "Muadzam Shah"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi",
+      "summary_forecast": "Tiada hujan",
+      "summary_when": "Sepanjang Hari",
       "min_temp": 23,
       "max_temp": 34
     },
@@ -32927,9 +32927,9 @@
       "date": "2026-06-30",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Tiada hujan",
-      "summary_when": "Sepanjang Hari",
+      "night_forecast": "Mendung",
+      "summary_forecast": "Mendung",
+      "summary_when": "Malam",
       "min_temp": 23,
       "max_temp": 33
     },
@@ -33877,11 +33877,11 @@
         "location_name": "Kuala Rompin"
       },
       "date": "2026-07-02",
-      "morning_forecast": "Ribut petir",
+      "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Tiada hujan",
       "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Pagi",
+      "summary_forecast": "Tiada hujan",
+      "summary_when": "Sepanjang Hari",
       "min_temp": 23,
       "max_temp": 34
     },
