@@ -1,17 +1,17 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-30T16:24:52.961Z",
+    "fetched_at": "2026-06-30T20:04:54.157Z",
     "source": "KTMY Data Bot",
     "api_key": "weather_warnings"
   },
   "data": [
     {
       "warning_issue": {
-        "issued": "2026-06-30T22:00:00",
+        "issued": "2026-07-01T01:00:00",
         "title_bm": "Amaran Angin Kencang dan Laut Bergelora Kategori Kedua",
         "title_en": "Second Category Warning on Strong Winds and Rough Seas"
       },
-      "valid_from": "2026-06-30T22:00:00",
+      "valid_from": "2026-07-01T01:00:00",
       "valid_to": "2026-07-03T00:00:00",
       "heading_en": "Warning on Strong Wind and Rough Seas (Second Category)",
       "text_en": "Strong westerly winds of 50-60 kmph with wave height up to 4.5 metres are expected over the waters of Phuket until Thursday, 2 July 2026.",
@@ -22,41 +22,41 @@
     },
     {
       "warning_issue": {
-        "issued": "2026-06-30T22:00:00",
+        "issued": "2026-07-01T01:00:00",
         "title_bm": "Amaran Angin Kencang dan Laut Bergelora Kategori Kedua",
         "title_en": "Second Category Warning on Strong Winds and Rough Seas"
       },
-      "valid_from": "2026-06-30T22:00:00",
-      "valid_to": "2026-07-01T01:00:00",
+      "valid_from": "2026-07-01T01:00:00",
+      "valid_to": "2026-07-01T05:00:00",
       "heading_en": "Warning on Thunderstorms",
-      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the waters of Pahang, Terengganu, Sarawak and Western Sabah and Labuan, Eastern Sabah until 1:00AM; Wednesday, 1 July 2026.",
+      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the waters of Pahang, Sarawak and Western Sabah and Labuan, Eastern Sabah until 5:00AM; Wednesday, 1 July 2026.",
       "instruction_en": null,
       "heading_bm": "Amaran Ribut petir",
-      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di kawasan perairan Pahang, Terengganu, Sarawak dan Sabah Barat dan Labuan, Sabah Timur sehingga 1:00 pagi; Rabu, 1 Julai 2026.",
+      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di kawasan perairan Pahang, Sarawak dan Sabah Barat dan Labuan, Sabah Timur sehingga 5:00 pagi; Rabu, 1 Julai 2026.",
       "instruction_bm": null
     },
     {
       "warning_issue": {
-        "issued": "2026-06-30T22:00:00",
+        "issued": "2026-07-01T01:00:00",
         "title_bm": "Amaran Angin Kencang dan Laut Bergelora Kategori Kedua",
         "title_en": "Second Category Warning on Strong Winds and Rough Seas"
       },
-      "valid_from": "2026-06-30T22:00:00",
-      "valid_to": "2026-07-01T01:00:00",
+      "valid_from": "2026-07-01T01:00:00",
+      "valid_to": "2026-07-01T05:00:00",
       "heading_en": "Warning on Thunderstorms",
-      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the waters of northern part of Phuket, Southern Straits of Melaka, eastern part of Reef North, Reef South, Layang-Layang, Labuan, Palawan and Sulu until 1:00AM; Wednesday, 1 July 2026.",
+      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the waters of northern part of Phuket, Southern Straits of Melaka, eastern part of Reef North, Reef South, Layang-Layang, Labuan, Palawan and Sulu until 5:00AM; Wednesday, 1 July 2026.",
       "instruction_en": null,
       "heading_bm": "Amaran Ribut petir",
-      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di kawasan perairan utara Phuket, Selat Melaka Selatan, timur Reef North, Reef South, Layang-Layang, Labuan, Palawan dan Sulu sehingga 1:00 pagi; Rabu, 1 Julai 2026.",
+      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di kawasan perairan utara Phuket, Selat Melaka Selatan, timur Reef North, Reef South, Layang-Layang, Labuan, Palawan dan Sulu sehingga 5:00 pagi; Rabu, 1 Julai 2026.",
       "instruction_bm": null
     },
     {
       "warning_issue": {
-        "issued": "2026-06-30T22:00:00",
+        "issued": "2026-07-01T01:00:00",
         "title_bm": "Amaran Angin Kencang dan Laut Bergelora Kategori Kedua",
         "title_en": "Second Category Warning on Strong Winds and Rough Seas"
       },
-      "valid_from": "2026-06-30T22:00:00",
+      "valid_from": "2026-07-01T01:00:00",
       "valid_to": "2026-07-03T00:00:00",
       "heading_en": "Warning on Strong Wind and Rough Seas (First Category)",
       "text_en": "Strong westerly winds of 40-50 kmph with wave height up to 3.5 metres are expected over the waters of Northern Straits of Melaka, Samui, Condore, Reef North and Layang-Layang until Thursday, 2 July 2026.",
@@ -67,17 +67,17 @@
     },
     {
       "warning_issue": {
-        "issued": "2026-06-30T22:50:00",
+        "issued": "2026-07-01T03:45:00",
         "title_bm": "Amaran Ribut Petir",
         "title_en": "Thunderstorms Warning"
       },
-      "valid_from": "2026-06-30T22:50:00",
-      "valid_to": "2026-07-01T01:00:00",
+      "valid_from": "2026-07-01T03:45:00",
+      "valid_to": "2026-07-01T07:00:00",
       "heading_en": "Thunderstorms Warning",
-      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the states of  Pahang  (Lipis, Raub and Temerloh); and  Sarawak:  Kuching (Lundu), Betong, Sarikei (Sarikei), Mukah, Kapit (Kapit and Bukit Mabong) and Limbang until 1:00AM; Wednesday, 1 July 2026.",
+      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the states of  Sarawak:  Mukah, Bintulu and Miri (Subis and Miri);  Sabah:  Interior (Kuala Penyu), Tawau (Tawau), Sandakan (Sandakan) and Kudat (Pitas and Kudat); and  FT Labuan  until 7:00AM; Wednesday, 1 July 2026.",
       "instruction_en": null,
       "heading_bm": "Amaran Ribut Petir",
-      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di negeri  Pahang  (Lipis, Raub dan Temerloh); dan  Sarawak:  Kuching (Lundu), Betong, Sarikei (Sarikei), Mukah, Kapit (Kapit dan Bukit Mabong) dan Limbang sehingga 1:00 pagi; Rabu, 1 Julai 2026.",
+      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di negeri  Sarawak:  Mukah, Bintulu dan Miri (Subis dan Miri);  Sabah:  Pedalaman (Kuala Penyu), Tawau (Tawau), Sandakan (Sandakan) dan Kudat (Pitas dan Kudat); dan  WP Labuan  sehingga 7:00 pagi; Rabu, 1 Julai 2026.",
       "instruction_bm": null
     },
     {

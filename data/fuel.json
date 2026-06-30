@@ -1,16 +1,42 @@
 {
   "_meta": {
-    "fetched_at": "2026-06-30T16:25:46.706Z",
+    "fetched_at": "2026-06-30T20:05:48.292Z",
     "source": "KTMY Data Bot",
     "api_key": "fuel"
   },
   "data": [
+    {
+      "date": "2026-07-01",
+      "ron95": -0.10000000000000009,
+      "ron97": -0.09999999999999964,
+      "diesel": -0.10000000000000009,
+      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
+      "series_type": "change_weekly",
+      "ron95_budi95": 0,
+      "diesel_eastmsia": null
+    },
+    {
+      "date": "2026-07-01",
+      "ron95": 3.37,
+      "ron97": 4,
+      "diesel": 3.97,
+      "ron95_skps": 2.05,
+      "diesel_budi": 2.1,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": null
+    },
     {
       "date": "2026-06-25",
       "ron95": 3.47,
       "ron97": 4.1,
       "diesel": 4.07,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -21,6 +47,8 @@
       "ron97": -0.25,
       "diesel": -0.2999999999999998,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -31,6 +59,8 @@
       "ron97": 4.35,
       "diesel": 4.37,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -41,6 +71,8 @@
       "ron97": 0,
       "diesel": -0.2999999999999998,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -51,6 +83,8 @@
       "ron97": 4.35,
       "diesel": 4.67,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -61,6 +95,8 @@
       "ron97": 0,
       "diesel": 0,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -71,6 +107,8 @@
       "ron97": 4.35,
       "diesel": 4.67,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -81,6 +119,8 @@
       "ron97": -0.3000000000000007,
       "diesel": -0.20000000000000018,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -91,6 +131,8 @@
       "ron97": 4.65,
       "diesel": 4.87,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -101,16 +143,8 @@
       "ron97": -0.1999999999999993,
       "diesel": -0.09999999999999964,
       "ron95_skps": 0,
-      "series_type": "change_weekly",
-      "ron95_budi95": 0,
-      "diesel_eastmsia": 0
-    },
-    {
-      "date": "2026-05-21",
-      "ron95": 0.20000000000000018,
-      "ron97": 0.14999999999999947,
-      "diesel": 0.09999999999999964,
-      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -121,16 +155,20 @@
       "ron97": 4.85,
       "diesel": 4.97,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
     },
     {
-      "date": "2026-05-14",
-      "ron95": -0.14999999999999947,
-      "ron97": -0.20000000000000018,
-      "diesel": -0.2999999999999998,
+      "date": "2026-05-21",
+      "ron95": 0.20000000000000018,
+      "ron97": 0.14999999999999947,
+      "diesel": 0.09999999999999964,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -141,9 +179,23 @@
       "ron97": 4.7,
       "diesel": 4.87,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
+    },
+    {
+      "date": "2026-05-14",
+      "ron95": -0.14999999999999947,
+      "ron97": -0.20000000000000018,
+      "diesel": -0.2999999999999998,
+      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
+      "series_type": "change_weekly",
+      "ron95_budi95": 0,
+      "diesel_eastmsia": 0
     },
     {
       "date": "2026-05-07",
@@ -151,6 +203,8 @@
       "ron97": 4.9,
       "diesel": 5.17,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -161,6 +215,8 @@
       "ron97": 0,
       "diesel": 0.04999999999999982,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -171,6 +227,8 @@
       "ron97": 0.05000000000000071,
       "diesel": 0,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -181,6 +239,8 @@
       "ron97": 4.9,
       "diesel": 5.12,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -191,6 +251,8 @@
       "ron97": 4.85,
       "diesel": 5.12,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -201,6 +263,20 @@
       "ron97": -0.25,
       "diesel": -0.8499999999999996,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
+      "series_type": "change_weekly",
+      "ron95_budi95": 0,
+      "diesel_eastmsia": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ron95": -0.25,
+      "ron97": -0.25,
+      "diesel": -0.75,
+      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -211,26 +287,8 @@
       "ron97": 5.1,
       "diesel": 5.97,
       "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
-    },
-    {
-      "date": "2026-04-16",
-      "ron95": -0.25,
-      "ron97": -0.25,
-      "diesel": -0.75,
-      "ron95_skps": 0,
-      "series_type": "change_weekly",
-      "ron95_budi95": 0,
-      "diesel_eastmsia": 0
-    },
-    {
-      "date": "2026-04-09",
-      "ron95": 4.27,
-      "ron97": 5.35,
-      "diesel": 6.72,
-      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -241,9 +299,23 @@
       "ron97": 0.39999999999999947,
       "diesel": 0.7000000000000002,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ron95": 4.27,
+      "ron97": 5.35,
+      "diesel": 6.72,
+      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": 2.15
     },
     {
       "date": "2026-04-02",
@@ -251,6 +323,8 @@
       "ron97": -0.20000000000000018,
       "diesel": 0.5,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -261,6 +335,20 @@
       "ron97": 4.95,
       "diesel": 6.02,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": 2.15
+    },
+    {
+      "date": "2026-03-26",
+      "ron95": 3.87,
+      "ron97": 5.15,
+      "diesel": 5.52,
+      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -271,29 +359,11 @@
       "ron97": 0.6000000000000005,
       "diesel": 0.7999999999999998,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
-    },
-    {
-      "date": "2026-03-26",
-      "ron95": 3.87,
-      "ron97": 5.15,
-      "diesel": 5.52,
-      "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
-    },
-    {
-      "date": "2026-03-19",
-      "ron95": 3.27,
-      "ron97": 4.55,
-      "diesel": 4.72,
-      "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
     },
     {
       "date": "2026-03-19",
@@ -301,19 +371,23 @@
       "ron97": 0.6999999999999997,
       "diesel": 0.7999999999999998,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
     },
     {
-      "date": "2026-03-12",
-      "ron95": 0.6000000000000001,
-      "ron97": 0.6000000000000001,
-      "diesel": 0.7999999999999998,
-      "ron95_skps": 0,
-      "series_type": "change_weekly",
-      "ron95_budi95": 0,
-      "diesel_eastmsia": 0
+      "date": "2026-03-19",
+      "ron95": 3.27,
+      "ron97": 4.55,
+      "diesel": 4.72,
+      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": 2.15
     },
     {
       "date": "2026-03-12",
@@ -321,19 +395,23 @@
       "ron97": 3.85,
       "diesel": 3.92,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
     },
     {
-      "date": "2026-03-05",
-      "ron95": 2.67,
-      "ron97": 3.25,
-      "diesel": 3.12,
-      "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
+      "date": "2026-03-12",
+      "ron95": 0.6000000000000001,
+      "ron97": 0.6000000000000001,
+      "diesel": 0.7999999999999998,
+      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
+      "series_type": "change_weekly",
+      "ron95_budi95": 0,
+      "diesel_eastmsia": 0
     },
     {
       "date": "2026-03-05",
@@ -341,9 +419,23 @@
       "ron97": 0.10000000000000009,
       "diesel": 0.08000000000000007,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
+    },
+    {
+      "date": "2026-03-05",
+      "ron95": 2.67,
+      "ron97": 3.25,
+      "diesel": 3.12,
+      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": 2.15
     },
     {
       "date": "2026-02-26",
@@ -351,6 +443,8 @@
       "ron97": 0.04999999999999982,
       "diesel": 0.04999999999999982,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -361,16 +455,8 @@
       "ron97": 3.15,
       "diesel": 3.04,
       "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
-    },
-    {
-      "date": "2026-02-19",
-      "ron95": 2.54,
-      "ron97": 3.1,
-      "diesel": 2.99,
-      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -381,9 +467,23 @@
       "ron97": 0,
       "diesel": 0,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ron95": 2.54,
+      "ron97": 3.1,
+      "diesel": 2.99,
+      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": 2.15
     },
     {
       "date": "2026-02-12",
@@ -391,6 +491,8 @@
       "ron97": 0,
       "diesel": 0.03000000000000025,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -401,6 +503,8 @@
       "ron97": 3.1,
       "diesel": 2.99,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -411,6 +515,8 @@
       "ron97": 0,
       "diesel": 0.040000000000000036,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -421,6 +527,20 @@
       "ron97": 3.1,
       "diesel": 2.96,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
+      "series_type": "level",
+      "ron95_budi95": 1.99,
+      "diesel_eastmsia": 2.15
+    },
+    {
+      "date": "2026-01-29",
+      "ron95": 2.54,
+      "ron97": 3.1,
+      "diesel": 2.92,
+      "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -431,19 +551,11 @@
       "ron97": 0,
       "diesel": 0.040000000000000036,
       "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
-    },
-    {
-      "date": "2026-01-29",
-      "ron95": 2.54,
-      "ron97": 3.1,
-      "diesel": 2.92,
-      "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
     },
     {
       "date": "2026-01-22",
@@ -451,6 +563,8 @@
       "ron97": 3.1,
       "diesel": 2.88,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -461,16 +575,8 @@
       "ron97": 0.020000000000000018,
       "diesel": 0.040000000000000036,
       "ron95_skps": 0,
-      "series_type": "change_weekly",
-      "ron95_budi95": 0,
-      "diesel_eastmsia": 0
-    },
-    {
-      "date": "2026-01-15",
-      "ron95": -0.020000000000000018,
-      "ron97": -0.029999999999999805,
-      "diesel": -0.050000000000000266,
-      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
@@ -481,9 +587,23 @@
       "ron97": 3.08,
       "diesel": 2.84,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
+    },
+    {
+      "date": "2026-01-15",
+      "ron95": -0.020000000000000018,
+      "ron97": -0.029999999999999805,
+      "diesel": -0.050000000000000266,
+      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
+      "series_type": "change_weekly",
+      "ron95_budi95": 0,
+      "diesel_eastmsia": 0
     },
     {
       "date": "2026-01-08",
@@ -491,6 +611,8 @@
       "ron97": 3.11,
       "diesel": 2.89,
       "ron95_skps": 2.05,
+      "diesel_budi": null,
+      "diesel_skds": 2.15,
       "series_type": "level",
       "ron95_budi95": 1.99,
       "diesel_eastmsia": 2.15
@@ -501,26 +623,8 @@
       "ron97": -0.050000000000000266,
       "diesel": -0.04999999999999982,
       "ron95_skps": 0,
-      "series_type": "change_weekly",
-      "ron95_budi95": 0,
-      "diesel_eastmsia": 0
-    },
-    {
-      "date": "2026-01-01",
-      "ron95": 2.56,
-      "ron97": 3.16,
-      "diesel": 2.94,
-      "ron95_skps": 2.05,
-      "series_type": "level",
-      "ron95_budi95": 1.99,
-      "diesel_eastmsia": 2.15
-    },
-    {
-      "date": "2026-01-01",
-      "ron95": 0,
-      "ron97": 0,
-      "diesel": 0,
-      "ron95_skps": 0,
+      "diesel_budi": null,
+      "diesel_skds": 0,
       "series_type": "change_weekly",
       "ron95_budi95": 0,
       "diesel_eastmsia": 0
