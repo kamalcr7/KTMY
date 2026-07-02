@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-07-02T19:37:58.200Z",
+    "fetched_at": "2026-07-02T21:13:48.399Z",
     "source": "KTMY Data Bot",
     "api_key": "weather_warnings"
   },
@@ -82,17 +82,17 @@
     },
     {
       "warning_issue": {
-        "issued": "2026-07-03T00:25:00",
+        "issued": "2026-07-03T03:25:00",
         "title_bm": "Nasihat Lekukan Tropika",
         "title_en": "Tropical Depression Advisory"
       },
       "valid_from": null,
       "valid_to": null,
       "heading_en": "Tropical Depression Advisory",
-      "text_en": "Category:  Tropical Depression Advisory (TDa)                  Time of Observation:  23:00, 02 July 2026                  Location:  Latitude 16.9 North and Longitude 110.2 East                  Movement:  West 20 km/h.                  Maximum wind speed:  56 km/h                  Distance from nearest international city:  approximately 172 km Northwest of Sanya, China.                  Distance from nearest Malaysian city:  Approximately 1323 km Northwest of Kudat, Sabah.                  Threat to Malaysia:  No significant impact.",
+      "text_en": "Category:  Tropical Depression Advisory (TDa)                  Time of Observation:  02:00, 02 July 2026                  Location:  Latitude 17.5 North and Longitude 108.8 East                  Movement:  West 10 km/h.                  Maximum wind speed:  64 km/h                  Distance from nearest international city:  approximately 116 km Northeast of Sanya, China.                  Distance from nearest Malaysian city:  Approximately 1446 km Northeast of  Bachok, Kelantan                  Threat to Malaysia:  No significant impact.",
       "instruction_en": null,
       "heading_bm": "Nasihat Lekukan Tropika",
-      "text_bm": "Kategori:  Nasihat Lekukan Tropika (TDa)                  Masa Pencerapan:  23:00, 02 Julai 2026                  Kedudukan:  Latitud 16.9 Utara dan Longitud 110.2 Timur                  Pergerakan:  Ke arah Barat dengan kelajuan 20 km/j.                  Kelajuan angin maksimum:  56 km/j                  Jarak dari bandar antarabangsa terdekat:  kira-kira 172 km ke Barat Laut Sanya, China.                  Jarak dari bandar terdekat:  Kira-kira 1323 km ke Barat Laut Kudat, Sabah.                  Kesan terhadap Malaysia:  Tiada kesan signifikan.",
+      "text_bm": "Kategori:  Nasihat Lekukan Tropika (TDa)                  Masa Pencerapan:  02:00, 02 Julai 2026                  Kedudukan:  Latitud 17.5 Utara dan Longitud 108.8 Timur                  Pergerakan:  Ke arah Barat dengan kelajuan 10 km/j.                  Kelajuan angin maksimum:  64 km/j                  Jarak dari bandar antarabangsa terdekat:  kira-kira 116 km ke Timur Laut Sanya, China.                  Jarak dari bandar terdekat:  Kira-kira 1446 km ke Timur Laut Bachok, Kelantan                  Kesan terhadap Malaysia:  Tiada kesan signifikan.",
       "instruction_bm": null
     }
   ]
