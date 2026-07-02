@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-07-02T21:13:31.346Z",
+    "fetched_at": "2026-07-02T23:12:20.904Z",
     "source": "KTMY Data Bot",
     "api_key": "weather_forecast"
   },
@@ -3721,7 +3721,7 @@
         "location_name": "Tanah Tinggi Cameron"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -4309,7 +4309,7 @@
         "location_name": "Lipis"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -7935,7 +7935,7 @@
         "location_name": "Tangkak"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -8131,7 +8131,7 @@
         "location_name": "Muar"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -8229,7 +8229,7 @@
         "location_name": "Batu Pahat"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -8523,7 +8523,7 @@
         "location_name": "Pontian"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -17931,7 +17931,7 @@
         "location_name": "Cameron Highland"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -20577,7 +20577,7 @@
         "location_name": "Pahang"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Hujan di beberapa tempat di kawasan pantai",
+      "morning_forecast": "Hujan di beberapa tempat",
       "afternoon_forecast": "Ribut petir di beberapa tempat",
       "night_forecast": "Ribut petir di beberapa tempat",
       "summary_forecast": "Ribut petir di beberapa tempat",
@@ -27339,7 +27339,7 @@
         "location_name": "Kuala Lipis"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -33317,7 +33317,7 @@
         "location_name": "Tangkak"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -33611,7 +33611,7 @@
         "location_name": "Muar"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -33709,7 +33709,7 @@
         "location_name": "Pagoh"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -33807,34 +33807,6 @@
         "location_name": "Labis"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Ribut petir",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang dan Malam",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn127",
-        "location_name": "Kuala Rompin"
-      },
-      "date": "2026-07-09",
-      "morning_forecast": "Tiada hujan",
-      "afternoon_forecast": "Ribut petir",
-      "night_forecast": "Tiada hujan",
-      "summary_forecast": "Ribut petir",
-      "summary_when": "Petang",
-      "min_temp": 23,
-      "max_temp": 34
-    },
-    {
-      "location": {
-        "location_id": "Tn127",
-        "location_name": "Kuala Rompin"
-      },
-      "date": "2026-07-08",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Ribut petir",
@@ -33848,6 +33820,34 @@
         "location_id": "Tn127",
         "location_name": "Kuala Rompin"
       },
+      "date": "2026-07-09",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Tiada hujan",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn127",
+        "location_name": "Kuala Rompin"
+      },
+      "date": "2026-07-08",
+      "morning_forecast": "Tiada hujan",
+      "afternoon_forecast": "Ribut petir",
+      "night_forecast": "Ribut petir",
+      "summary_forecast": "Ribut petir",
+      "summary_when": "Petang dan Malam",
+      "min_temp": 23,
+      "max_temp": 34
+    },
+    {
+      "location": {
+        "location_id": "Tn127",
+        "location_name": "Kuala Rompin"
+      },
       "date": "2026-07-07",
       "morning_forecast": "Tiada hujan",
       "afternoon_forecast": "Ribut petir",
@@ -34003,7 +34003,7 @@
         "location_name": "Yong Peng"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -34101,7 +34101,7 @@
         "location_name": "Batu Pahat"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -34199,7 +34199,7 @@
         "location_name": "Ayer Hitam"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
@@ -34591,7 +34591,7 @@
         "location_name": "Pontian"
       },
       "date": "2026-07-03",
-      "morning_forecast": "Tiada hujan",
+      "morning_forecast": "Hujan",
       "afternoon_forecast": "Ribut petir",
       "night_forecast": "Tiada hujan",
       "summary_forecast": "Ribut petir",
