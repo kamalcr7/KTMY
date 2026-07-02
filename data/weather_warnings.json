@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-07-02T17:54:03.629Z",
+    "fetched_at": "2026-07-02T19:37:58.200Z",
     "source": "KTMY Data Bot",
     "api_key": "weather_warnings"
   },
@@ -67,17 +67,17 @@
     },
     {
       "warning_issue": {
-        "issued": "2026-07-03T01:40:00",
+        "issued": "2026-07-03T03:05:00",
         "title_bm": "Amaran Ribut Petir",
         "title_en": "Thunderstorms Warning"
       },
-      "valid_from": "2026-07-03T01:40:00",
-      "valid_to": "2026-07-03T06:00:00",
+      "valid_from": "2026-07-03T03:05:00",
+      "valid_to": "2026-07-03T07:00:00",
       "heading_en": "Thunderstorms Warning",
-      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the states of  Kedah  (Langkawi);  Perak  (Manjung and Perak Tengah);  Terengganu  (Kuala Nerus, Hulu Terengganu, Kuala Terengganu, Marang, Dungun and Kemaman);  Pahang  (Jerantut and Kuantan);  Sarawak:  Sri Aman, Betong (Betong), Sarikei (Pakan and Julau), Sibu, Mukah (Daro, Matu, Dalat and Mukah), Kapit (Song and Kapit), Bintulu and Miri (Miri);  Sabah:  Interior (Kuala Penyu), Sandakan (Telupid, Kinabatangan, Beluran and Sandakan) and Kudat (Pitas and Kudat); and  FT Labuan  until 6:00AM; Friday, 3 July 2026.",
+      "text_en": "Thunderstorms, heavy rain and strong winds are expected over the states of  Perlis ;  Kedah  (Langkawi, Kubang Pasu, Kota Setar and Pokok Sena);  Perak  (Manjung, Kinta, Perak Tengah, Kampar, Bagan Datuk, Hilir Perak, Batang Padang and Muallim);  Terengganu  (Dungun and Kemaman);  Pahang  (Cameron Highlands, Lipis, Raub, Jerantut and Kuantan);  Selangor  (Sabak Bernam, Kuala Selangor, Klang and Kuala Langat);  Sarawak:  Sri Aman, Betong (Betong), Sibu (Selangau), Mukah (Dalat and Mukah), Kapit (Song and Kapit) and Bintulu (Tatau);  Sabah:  Interior (Kuala Penyu), Sandakan (Kinabatangan and Sandakan) and Kudat (Kudat); and  FT Labuan  until 7:00AM; Friday, 3 July 2026.",
       "instruction_en": null,
       "heading_bm": "Amaran Ribut Petir",
-      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di negeri  Kedah  (Langkawi);  Perak  (Manjung dan Perak Tengah);  Terengganu  (Kuala Nerus, Hulu Terengganu, Kuala Terengganu, Marang, Dungun dan Kemaman);  Pahang  (Jerantut dan Kuantan);  Sarawak:  Sri Aman, Betong (Betong), Sarikei (Pakan dan Julau), Sibu, Mukah (Daro, Matu, Dalat dan Mukah), Kapit (Song dan Kapit), Bintulu dan Miri (Miri);  Sabah:  Pedalaman (Kuala Penyu), Sandakan (Telupid, Kinabatangan, Beluran dan Sandakan) dan Kudat (Pitas dan Kudat); dan  WP Labuan  sehingga 6:00 pagi; Jumaat, 3 Julai 2026.",
+      "text_bm": "Ribut petir, hujan lebat dan angin kencang dijangka di negeri  Perlis ;  Kedah  (Langkawi, Kubang Pasu, Kota Setar dan Pokok Sena);  Perak  (Manjung, Kinta, Perak Tengah, Kampar, Bagan Datuk, Hilir Perak, Batang Padang dan Muallim);  Terengganu  (Dungun dan Kemaman);  Pahang  (Tanah Tinggi Cameron, Lipis, Raub, Jerantut dan Kuantan);  Selangor  (Sabak Bernam, Kuala Selangor, Klang dan Kuala Langat);  Sarawak:  Sri Aman, Betong (Betong), Sibu (Selangau), Mukah (Dalat dan Mukah), Kapit (Song dan Kapit) dan Bintulu (Tatau);  Sabah:  Pedalaman (Kuala Penyu), Sandakan (Kinabatangan dan Sandakan) dan Kudat (Kudat); dan  WP Labuan  sehingga 7:00 pagi; Jumaat, 3 Julai 2026.",
       "instruction_bm": null
     },
     {
